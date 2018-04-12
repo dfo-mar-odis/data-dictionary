@@ -1,0 +1,37 @@
+Field,English,Français
+OBJECTID,ArcGIS Identifier,Identifiant ArcGIS
+EVENT_SPEC,Event Identifier.,Identifiant d'événement
+EVENT_ID,System assigned unique identifier.,Identifiant unique assigné par le système.
+CRUISE,Mission Identifier.,Identifiant de la  mission.
+INSTRUMENT,Instrument used for the measurement.,Instrument utilisé pour la mesure.
+MODEL,Model of the instrument.,Modèle de l'instrument.
+SERIAL,Serial number of the instrument.,Numéro de série de l'instrument.
+START_LAT,Latitude of the location where the data collection started in decimal degrees.,Latitude de l'emplacement où la collecte des données a débuté en degrés décimaux.
+START_LONG,Longitude of the location where the data collection started in decimal degrees.,Longitude de l'emplacement où la collecte des données a débuté en degrés décimaux.
+END_LAT,Latitude of the location where the data collection ended in decimal degrees.,Latitude du lieu où la collecte des données s'est terminée en degrés décimaux.
+END_LONG,Longitude of the location where the data collection ended in decimal degrees.,Longitude de l'emplacement où la collecte de données s'est terminée en degrés décimaux.
+EVENT_START_DATE,Measurement (event) start date.,Date du début de la mesure (événement).
+EVENT_END_DATE,Measurement (event) end date.,Date de fin de la mesure (événement).
+MIN_SAMPLING_DEPTH,Minimum depth (meters) at which the measurement was done.,Profondeur minimale (mètres) à laquelle la mesure a été effectuée.
+MAX_SAMPLING_DEPTH,"Maximum depth (meters) at which the measurement was done. In most cases, the maximum and minimum depths are same.","Profondeur maximale(mètres) à laquelle la mesure a été effectuée. Dans la plupart des cas, les profondeurs maximales et minimales sont identiques."
+SOUNDING_DEPTH,Water depth (meters) at the location.,Profondeur de l'eau (mètres) à  cet endroit.
+SAMPLING_INTERVAL,"Period in between successive measurements, in seconds.",Période entre les mesures successives en secondes.
+UPDATED_DATE,The data processed date as found in the datafile.,Date de traitement des données tel qu’identifié dans le fichier de données.
+PARAMETER,Parameter measured.,Paramètre mesuré
+,,
+SAMPLING_DEPTH,Depth (meters) at which the measurement was taken.,Profondeur à laquelle (mètres)la mesure a été prise.
+SCALAR_ID,System assigned unique identifier.,Identifiant unique assigné par le système.
+COLLECTION_START_DATE,Start date of the collection of the data.,Date de début de la collecte des données.
+COLLECTION_END_DATE,End date of the collection of the data.,Date de fin de la collecte des données.
+MIN_SCAL,"Minimum parameter value recorded between the start and the end date of the month. Temperature (degrees Celsius), Salinity (PSU), Current (meters per second)","Valeur minimale du paramètre enregistrée entre la date de début et la fin du mois. Température (degrés Celsius), "
+,,"  Salinité (USP), Courant (mètres par seconde)"
+,,
+MAX_SCAL,"Maximum parameter value recorded between the start and the end date of the month. Temperature (degrees Celsius), Salinity (PSU), Current (meters per second)","Valeur maximale du paramètre enregistrée entre entre la date de début et la fin du mois. Température (degrés Celsius), "
+,,"  Salinité (USP), Courant (mètres par seconde)"
+,,
+MEAN_SCAL,"Mean parameter value for the period between the start and end date of the month. Temperature (degrees Celsius), Salinity (PSU), Current (meters per second)","Valeur moyenne du paramètre pour la période comprise entre la date du début et la fin du mois. Température (degrés Celsius), "
+,,"  Salinité (USP), Courant (mètres par seconde)"
+,,
+SIG_SCAL,Standard deviation for parameter values recorded between the start and end date of the month.,Écart-type pour les valeurs du paramètre enregistrée entre la date de début et la fin du mois.
+QUALITY_FLAG,Flag identifying quality of the data. http://www.bio.gc.ca/science/data-donnees/base/data-donnees/odi-en.php,Identifiant de la qualité des données. Http://www.bio.gc.ca/science/data-donnees/base/data-donnees/odi-en.php
+Shape,ArcGIS Field.,ArcGIS Field.
