@@ -22,7 +22,7 @@ PARAMETER,Parameter. Foreign Key references parameter in CTSPARMQUALS table.,
 SAMPLING_DEPTH,Water depth (meters) at which the measurement was taken.,Profondeur de l'eau (mètres)  à laquelle la mesure a été prise.
 COLLECTION_START_DATE,Start date.,Date de début.
 COLLECTION_END_DATE,End date. This will be same as the start date as the data are daily statistics.,Date de fin. Ce sera la même que la date de début car les données sont des statistiques quotidiennes.
-MIN_SCAL,"Minimum parameter value recorded on the start/end date. Temperature (degrees Celsius), Salinity (PSU)",Valeur minimale du paramètre enregistrée à la date de début / fin., Température (degrés Celsius), Salinité (USP)"
+MIN_SCAL,"Minimum parameter value recorded on the start/end date. Temperature (degrees Celsius), Salinity (PSU)","Valeur minimale du paramètre enregistrée à la date de début / fin., Température (degrés Celsius), Salinité (USP)"
 MAX_SCAL,"Maximum parameter value recorded on the start/end date. Temperature (degrees Celsius), Salinity (PSU)","Valeur maximale du paramètre enregistrée à la date de début / fin. Température (degrés Celsius), Salinité (USP)"
 MEAN_SCAL,"Mean parameter value recorded on the start/end date. Temperature (degrees Celsius), Salinity (PSU)","Valeur moyenne du paramètre enregistrée à la date de début / fin. Température (degrés Celsius), Salinité (USP)"
 SIG_SCAL,Standard deviation for parameter value recorded on the start/end date.,Écart-type pour la valeur du paramètre enregistrée à la date de début / fin.
