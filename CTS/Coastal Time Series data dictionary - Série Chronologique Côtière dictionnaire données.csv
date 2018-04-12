@@ -12,8 +12,7 @@ END_LAT,Latitude of the location where the data collection ended in decimal degr
 END_LONG,Longitude of the location where the data collection ended in decimal degrees.,Longitude de l'emplacement où la collecte de données s'est terminée en degrés décimaux.
 EVENT_START_DATE,Measurement  (event) start date.,Date de début de mesure (événement).
 EVENT_END_DATE,Measurement (event) end date.,Date de fin de mesure (événement).
-MIN_SAMPLING_DEPTH,Minimum depth (meters) at which the temperature was read.,Profondeur minimale(mètres)
-,, à laquelle la mesure a été effectuée.
+MIN_SAMPLING_DEPTH,Minimum depth (meters) at which the temperature was read.,Profondeur minimale(mètres) à laquelle la mesure a été effectuée.
 MAX_SAMPLING_DEPTH,"Maximum depth (meters) at which the temperature was read. In most cases, the maximum and minimum depths are same.","Profondeur maximale (mètres) à laquelle la mesure a été effectuée. Dans la plupart des cas, les profondeurs maximales et minimales sont identiques."
 SOUNDING_DEPTH,Water depth (meters) at the location.,Profondeur de l'eau (mètres)  à l'endroit.
 SAMPLING_INTERVAL,"Period in between successive measurements, in seconds.","Période entre les mesures successives, en secondes."
@@ -21,18 +20,11 @@ WATER_TYPE,Indicates if the measurement was taken in salt water or in fresh wate
 SCALAR_ID,System assigned unique identifier.,Identifiant unique identifié par le système.
 PARAMETER,Parameter. Foreign Key references parameter in CTSPARMQUALS table.,
 SAMPLING_DEPTH,Water depth (meters) at which the measurement was taken.,Profondeur de l'eau (mètres)  à laquelle la mesure a été prise.
-COLLECTION_START_DATE,Start date.,
-,,Date de début.
+COLLECTION_START_DATE,Start date.,Date de début.
 COLLECTION_END_DATE,End date. This will be same as the start date as the data are daily statistics.,Date de fin. Ce sera la même que la date de début car les données sont des statistiques quotidiennes.
-MIN_SCAL,"Minimum parameter value recorded on the start/end date. Temperature (degrees Celsius), Salinity (PSU)",Valeur minimale du paramètre enregistrée à la date de début / fin.
-,,"Température (degrés Celsius), "
-,,  Salinité (USP)
-,,
-MAX_SCAL,"Maximum parameter value recorded on the start/end date. Temperature (degrees Celsius), Salinity (PSU)","Valeur maximale du paramètre enregistrée à la date de début / fin. Température (degrés Celsius), "
-,,  Salinité (USP)
-MEAN_SCAL,"Mean parameter value recorded on the start/end date. Temperature (degrees Celsius), Salinity (PSU)","Valeur moyenne du paramètre enregistrée à la date de début / fin. Température (degrés Celsius), "
-,,  Salinité (USP)
-,,
+MIN_SCAL,"Minimum parameter value recorded on the start/end date. Temperature (degrees Celsius), Salinity (PSU)",Valeur minimale du paramètre enregistrée à la date de début / fin., Température (degrés Celsius), Salinité (USP)"
+MAX_SCAL,"Maximum parameter value recorded on the start/end date. Temperature (degrees Celsius), Salinity (PSU)","Valeur maximale du paramètre enregistrée à la date de début / fin. Température (degrés Celsius), Salinité (USP)"
+MEAN_SCAL,"Mean parameter value recorded on the start/end date. Temperature (degrees Celsius), Salinity (PSU)","Valeur moyenne du paramètre enregistrée à la date de début / fin. Température (degrés Celsius), Salinité (USP)"
 SIG_SCAL,Standard deviation for parameter value recorded on the start/end date.,Écart-type pour la valeur du paramètre enregistrée à la date de début / fin.
 QUALITY_SCAL,Flag identifying quality of the data. http://www.bio.gc.ca/science/data-donnees/base/data-donnees/cts-en.php,Drapeau identifiant la qualité des données. Http://www.bio.gc.ca/science/data-donnees/base/data-donnees/odi-en.php
 Shape,ArcGIS Field.,ArcGIS Field.
