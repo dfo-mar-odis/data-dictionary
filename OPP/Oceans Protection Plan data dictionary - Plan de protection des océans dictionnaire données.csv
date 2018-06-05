@@ -1,0 +1,6 @@
+Field ,Definition_En,Definition_Fr
+OBJECTID,ArcGIS Field ,Identifiant ArcGIS
+Shape ,ArcGIS Field ,Identifiant ArcGIS
+Shape_Length,ArcGIS Field ,Identifiant ArcGIS
+Shape_Area,ArcGIS Field ,Identifiant ArcGIS
+Resposne_Area,Environmental emergency planning response area. ,Zone d'intervention en planification d'urgence environnementale
