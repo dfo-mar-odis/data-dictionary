@@ -1,6 +1,59 @@
-Field ,Definition_En,Definition_Fr
-OBJECTID,ArcGIS Field ,Identifiant ArcGIS
-Shape ,ArcGIS Field ,Identifiant ArcGIS
-Shape_Length,ArcGIS Field ,Identifiant ArcGIS
-Shape_Area,ArcGIS Field ,Identifiant ArcGIS
-Resposne_Area,Environmental emergency planning response area. ,Zone d'intervention en planification d'urgence environnementale
+Field_Name,Description_EN,Description_FR,Values_EN,Values_FR
+OBJECTID,ArcGIS Field,Identifiant ArcGIS,,
+Shape,ArcGIS Field,Identifiant ArcGIS,,
+Presence,Likelihood of species presence in the designated ARP.,Probabilité de présence d’espèces dans le Plan de réponse zonal désigné ,,
+COMMON_NAME,Common name of the species,Nom commun de l’espèce,,
+GROUP,Group representing the species,Groupe représentant l’espèce,,
+SUBGROUP_LEVEL1,"Subgroup representing the species, Level 1","Sous-groupe représentant l’espèce, niveau 1",,
+SUBGROUP_LEVEL2,"Subgroup representing the species, Level 2","Sous-groupe représentant l’espèce, niveau 2",,
+SUBGROUP_LEVEL3,"Subgroup representing the species, Level 3","Sous-groupe représentant l’espèce, niveau 3",,
+SCIENTIFIC_NAME,Scientific name of the species,Nom scientifique de l’espèce,,
+LIFE_STAGE,Life stage,Stade biologique,"Adult, Juvenile, Larvae (Some self-propelled mobility), Eggs (Free floating or benthically settled), Spawning, Mating, Nesting, Inter-Nesting, Hatching, Calving, Calf, Pupping, Pup","Adulte, juvénile, larve (certaine mobilité autopropulsée), œufs (flottant librement ou en état benthique), frai, accouplement, nidification, inter-nidification, éclosion, vêlage, baleineau, naissance, nouveau-né"
+ARP,Area Response Planning extent,Étendue de la planification d’intervention localisée,"SJ (Saint John and Bay of Fundy approaches , 50 nautical miles around centroid), PH (Port Hawkesbury and Canso approaches, 50 nautical miles around centroid)","SJ (Approches de Saint John et de la baie de Fundy, 50 milles marins autour du centroïde), PH (Approches de Port Hawkesbury et de Canso, 50 milles marins autour du centroïde)"
+JAN,Species monthly presence in the area,Présence mensuelle de l’espèce dans la zone,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+FEB,Species monthly presence in the area,Présence mensuelle de l’espèce dans la zone,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+MAR,Species monthly presence in the area,Présence mensuelle de l’espèce dans la zone,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+APR,Species monthly presence in the area,Présence mensuelle de l’espèce dans la zone,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+MAY,Species monthly presence in the area,Présence mensuelle de l’espèce dans la zone,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+JUN,Species monthly presence in the area,Présence mensuelle de l’espèce dans la zone,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+JUL,Species monthly presence in the area,Présence mensuelle de l’espèce dans la zone,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+AUG,Species monthly presence in the area,Présence mensuelle de l’espèce dans la zone,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+SEP,Species monthly presence in the area,Présence mensuelle de l’espèce dans la zone,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+OCT,Species monthly presence in the area,Présence mensuelle de l’espèce dans la zone,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+NOV,Species monthly presence in the area,Présence mensuelle de l’espèce dans la zone,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+DEC,Species monthly presence in the area,Présence mensuelle de l’espèce dans la zone,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+VERTICAL_SURFACE,Species presence in the upper ~10m of water column,Les 10 premiers mètres supérieurs de la colonne d’eau,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+VERTICAL_WATER_COLUMN,Species presence in the water column (not associated with bottom or surface),Non associé à la surface ou au fond,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+VERTICAL_BENTHIC,"Species presence near to, at or below seabed","Près du fond marin, sur le fond marin ou en dessous","Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+VERTICAL_INTERTIDAL,Species presence in the area between mean low tide to mean high tide,Marée basse moyenne jusqu’à la marée haute moyenne,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+HORIZONTAL_INTERTIDAL,Species presence in the area between lowest low tide to highest tide,Marée la plus basse à la marée la plus élevée,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+HORIZONTAL_COASTAL,Species presence within sight of land on a clear day,À portée de vue de la terre par temps dégagé,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+HORIZONTAL_OFFSHORE,Species presence beyond coastal,Plus loin que côtier,"Present,  Likely present, Infrequent,  Not present,  Unknown","Présente, Présence probable, Rare, Non présente, Inconnu "
+RELATIVE_DISTRIBUTION,Relative distribution within ARP,Répartition relative,"Throughout (Equally likely to be found throughout ARP), Unknown  (Spatial distribution is unknown), Clumped (More likely to be found in specific locations)","Totalité (tout aussi susceptibles d'être trouvé dans la totalité de la PIL), Inconnu (Répartition spatiale inconnue), Concentration (Plus susceptibles d'être présents dans des endroits précis)"
+RELATIVE_ABUNDANCE,Relative abundance within ARP,Abondance relative,"Abundant, Common, Frequent, Occasional, Rare","Abondant, Commun, Fréquent, Occasionnel, Rare"
+EXPOSURE_SURFACE_INTERACTING,Considerable time at or reliant on sea surface,Qui passe beaucoup de temps à la surface de la mer ou qui en dépend,"Yes , No","Oui, Non"
+EXPOSURE_BOTTOM_INTERACTING,Considerable time  at or near the bottom,Qui passe beaucoup de temps dans le fond marin ou tout près,"Yes , No","Oui, Non"
+EXPOSURE_LOW_MOBILITY,Limited ability to move away from spilled oil,Capacité limitée de s'éloigner d’un déversement de pétrole,"Yes , No","Oui, Non"
+EXPOSURE_CONCENTRATIONS,Species lives in high concentrations or aggregations,L’espèce vit en fortes concentrations ou en forts regroupements,"Yes , No","Oui, Non"
+SENSITIVITY_INSULATON_LOSS,Contact with oil results in loss of insulation or thermoregulation,Le contact avec des hydrocarbures entraîne une perte d'isolation ou de thermorégulation,"Yes , No","Oui, Non"
+SENSITIVITY_FEEDING_REDUCTION,Contact with oil results in mechanical impairment of feeding structures,Dégradation mécanique des structures d'alimentation,"Yes , No","Oui, Non"
+SENSITIVITY_TOXICITY_IMPAIRMENT,Contact with oil results in mechanical impairment of respiratory structures,Dégradation mécanique des structures respiratoires,"Yes , No","Oui, Non"
+RECOVERY_LOW_POPULATION,Population has limited ability to recover ,La population a une capacité limitée à se rétablir ,"Yes , No","Oui, Non"
+RECOVERY_LOW_REPRODUCTION,"Slow to recover from impact, even with high population levels","Lent rétablissement après l’impact, même avec des niveaux de population élevés","Yes , No","Oui, Non"
+RECOVERY_NARROW_GEOGRAPHIC_RANGE,Species (or stock) is endemic to area ,L’espèce (ou stock) est endémique à la zone ,"Yes , No","Oui, Non"
+RECOVERY_SEDIMENT_ASSOCIATION,Contaminated sediments can continue to expose organisms,Des sédiments contaminés peuvent continuer à exposer des organismes,"Yes , No","Oui, Non"
+IMPORTANCE_HUMAN_USE,Human use of the species,Activités humaines,"Commercial fishery, Recreational fishery, Aboriginal fishery, Tourism economic value","Pêche commerciale, Pêche récréative, Pêche autochtone, Valeur économique touristique"
+IMPORTANCE_BIO_ECO,Biological and Ecological importance of the species,Importance biologique et écologique,"Significant forage role, Apex predator, Provides structural habitat, Significant trophic role","Rôle fourrager important, Prédateur dominant, Fournit un habitat structurel, Rôle trophique important"
+MITIGATION_TECHNIQUE,Mitigation technique,Technique d’atténuation,,
+MITIGATION_POTENTIAL,Mitigation potential,Possibilités d’atténuation,,
+GEOGRAPHIC_AREA,Geographical area within ARP ,Zone géographique dans la PIL ,,
+IMPORTANCE_RATIONALE,Rationale for importance definition,Justification de l’importance,"Migration pathway, Spawning/birthing, Feeding area, ""Critical Habitat"", Seasonally important habitat, Not significant","Voies de migration, Frai/naissance, Zone d’alimentation,  ""Habitat essentiel"", Habitat important en fonction de la saison, Peu important"
+SEASONALITY,Season in which species is present,Saison pendant laquelle l’espèce est présente,,
+LEGISLATION,Act that protects or regulates the species,Loi pour la protection ou pour la réglementation sur les espèces,,
+JURISDICTION,The authority party over the species,La partie des pouvoirs concernant les espèces,,
+SARA_STATUS,Status of the species designated by the Species At Risk Act,Situation des espèces désignées dans la Loi sur les espèces en péril,"Schedule 1 – Extirpated, Schedule 1 – Endangered, Schedule 1 – Threatened, Schedule 1 - Special Concern","Annexe 1 - Disparue du pays, Annexe 1 - En voie de disparition, Annexe 1 – Menacée, Annexe 1 - Préoccupante"
+COSEWIC_STATUS,Status of the species designated by the Committee on the Status of Endangered Wildlife in Canada (COSEWIC),Situation des espèces désignées par le Comité sur la situation des espèces en péril au Canada (COSEPAC),"Extinct, Extirpated, Endangered, Threatened, Special Concern, Not at Risk, Candidate, Data Deficient","Disparu, Disparue du pays, En voie de disparition, Menacée, Préoccupante, Non en péril, Candidate, Données insuffisantes"
+URL,Hyperlink with additional information,Hyperlien pour accéder à des renseignements supplémentaires,,
+Shape_Length,ArcGIS Field,Identifiant ArcGIS,,
+Shape_Area,ArcGIS Field,Identifiant ArcGIS,,
+,,,,
