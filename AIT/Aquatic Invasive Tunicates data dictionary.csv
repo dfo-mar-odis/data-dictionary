@@ -1,21 +1,29 @@
-Field Name,Type,Definition 
-OBJECTID_1,ObjectID,<ArcGIS Field>
-Shape,Geometry,<ArcGIS Field>
-StnNum,Long,The numeric code to identify the monitoring station.
-StnLocation,Text,Location of the monitoring station. 
-Latitude,Double,The latitude at the start of a tow recorded in decimal degrees.
-Longitude,Double,The longitude at the start of a tow recorded in decimal degrees.
-Year_Observed,Long,Year the observation took place. 
-FCName,Text,The feature class name of the source data. 
-Prov,Text,Two character province indentifier. 
-Botrylloides_violaceus,Long,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.
-Botryllus_schlosseri,Long,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.
-Ciona_intestinalis,Long,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.
-sampler,Text,The organization which collected the data.
-StnDescription,Text,Description of the survey location. 
-StructureType,Text,Structure type of the monitoring station. 
-Caprella_mutica,Double,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.
-Membranipora_membranacea,Double,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.
-Ascidiella_aspersa,Double,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.
-Styela_clava,Double,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.
-Codium_fragiel,Double,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.
+Field Name,Type,Definition (English),Definition (French)
+OBJECTID_1,ObjectID,ArcGIS Field,Identifiant ArcGIS
+Shape,Geometry,ArcGIS Field,Identifiant ArcGIS
+StnNum,Long,The numeric code to identify the monitoring station.,Code numérique de la station de surveillance.
+StnLocation,Text,Location of the monitoring station. ,Emplacement de la station de surveillance.
+Latitude,Double,The latitude at the start of a tow recorded in decimal degrees.,"La latitude de la station, en degrés décimaux."
+Longitude,Double,The longitude at the start of a tow recorded in decimal degrees.,"La longitude de la station, en degrés décimaux."
+Year_Observed,Long,Year the observation took place. ,Année où l'étude a eu lieu.
+FCName,Text,The feature class name of the source data. ,Le nom de la classe d'entités des données source.
+Prov,Text,Two character province indentifier. ,Identificateur de province à deux caractères.
+Botrylloides_violaceus,Long,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.,"Représentation du pourcentage de couverture des plaques. 0 = aucun tunicier. 1 = moins de 25 %. 2 = 26 % à 50 %. 3 = 51 % à 75 %. 4 = 76 % à 100 %.
+Pour indiquer la répartition des tuniciers, 0 = aucun tunicier, 1 = présence de tuniciers."
+Botryllus_schlosseri,Long,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.,"Représentation du pourcentage de couverture des plaques. 0 = aucun tunicier. 1 = moins de 25 %. 2 = 26 % à 50 %. 3 = 51 % à 75 %. 4 = 76 % à 100 %.
+Pour indiquer la répartition des tuniciers, 0 = aucun tunicier, 1 = présence de tuniciers."
+Ciona_intestinalis,Long,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.,"Représentation du pourcentage de couverture des plaques. 0 = aucun tunicier. 1 = moins de 25 %. 2 = 26 % à 50 %. 3 = 51 % à 75 %. 4 = 76 % à 100 %.
+Pour indiquer la répartition des tuniciers, 0 = aucun tunicier, 1 = présence de tuniciers."
+sampler,Text,The organization which collected the data.,Organisation qui a recueilli les données.
+StnDescription,Text,Description of the survey location. ,Description de l'emplacement du relevé.
+StructureType,Text,Structure type of the monitoring station. ,Type de structure de la station de surveillance.
+Caprella_mutica,Double,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.,"Représentation du pourcentage de couverture des plaques. 0 = aucun tunicier. 1 = moins de 25 %. 2 = 26 % à 50 %. 3 = 51 % à 75 %. 4 = 76 % à 100 %.
+Pour indiquer la répartition des tuniciers, 0 = aucun tunicier, 1 = présence de tuniciers."
+Membranipora_membranacea,Double,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.,"Représentation du pourcentage de couverture des plaques. 0 = aucun tunicier. 1 = moins de 25 %. 2 = 26 % à 50 %. 3 = 51 % à 75 %. 4 = 76 % à 100 %.
+Pour indiquer la répartition des tuniciers, 0 = aucun tunicier, 1 = présence de tuniciers."
+Ascidiella_aspersa,Double,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.,"Représentation du pourcentage de couverture des plaques. 0 = aucun tunicier. 1 = moins de 25 %. 2 = 26 % à 50 %. 3 = 51 % à 75 %. 4 = 76 % à 100 %.
+Pour indiquer la répartition des tuniciers, 0 = aucun tunicier, 1 = présence de tuniciers."
+Styela_clava,Double,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.,"Représentation du pourcentage de couverture des plaques. 0 = aucun tunicier. 1 = moins de 25 %. 2 = 26 % à 50 %. 3 = 51 % à 75 %. 4 = 76 % à 100 %.
+Pour indiquer la répartition des tuniciers, 0 = aucun tunicier, 1 = présence de tuniciers."
+Codium_fragile,Double,Number representing the percentage of plate coverage range. 0 = no tunicates present. 1 = less than 25%. 2 = 26% to 50%. 3 = 51% to 75%. 4 = 76% to 100%.,"Représentation du pourcentage de couverture des plaques. 0 = aucun tunicier. 1 = moins de 25 %. 2 = 26 % à 50 %. 3 = 51 % à 75 %. 4 = 76 % à 100 %.
+Pour indiquer la répartition des tuniciers, 0 = aucun tunicier, 1 = présence de tuniciers."
