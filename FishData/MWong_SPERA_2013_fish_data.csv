@@ -1,0 +1,779 @@
+date,site,engSiteName_nomSiteAng,shore_côte,latitude,longitude,habitat,gear_équipement,transect,area_m2,species_espèce,engCommonName_nomCommunAng,rawAbundance_abondanceBrute,calibratedYOYAbundance_abondanceCalibréeJDA,calibratedDensity_densitéCalibrée_m^-2
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,1,60,Carcinus maenas,Green crab,2,59.145,3.10018375
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,2,60,Carcinus maenas,Green crab,1,90.6,4.74895
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,3,60,Carcinus maenas,Green crab,2,39.195,2.05447125
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,1,60,Crangon septimspinosa,Sand shrimp,1,0.623064516,3.505208706
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,3,60,Crangon septimspinosa,Sand shrimp,1,0.623064516,3.505208706
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,1,30,Apeltes quadracus,Fourspine stickleback,1,1,0.460600907
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,2,30,Apeltes quadracus,Fourspine stickleback,1,1,0.460600907
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,3,30,Apeltes quadracus,Fourspine stickleback,1,1,0.460600907
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,4,30,Apeltes quadracus,Fourspine stickleback,2,2,0.921201814
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,3,30,Cancer irroratus,Rock crab,1,12.07,0.402333333
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,1,30,Carcinus maenas,Green crab,5,47.3,2.301933333
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,2,30,Carcinus maenas,Green crab,3,4.09,0.199046667
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,3,30,Carcinus maenas,Green crab,2,70.65,3.4383
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,4,30,Carcinus maenas,Green crab,3,3,0.146
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,5,30,Carcinus maenas,Green crab,4,96.68,4.705093333
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,1,30,Crangon septimspinosa,Sand shrimp,10,6.230645161,3.038865285
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,2,30,Crangon septimspinosa,Sand shrimp,6,3.738387097,1.823319171
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,3,30,Crangon septimspinosa,Sand shrimp,2,1.246129032,0.607773057
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,4,30,Crangon septimspinosa,Sand shrimp,3,1.869193548,0.911659585
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,5,30,Crangon septimspinosa,Sand shrimp,3,1.869193548,0.911659585
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,2,30,Palaemonetes vulgaris,Grass shrimp,1,0.8,0.08622336
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,3,30,Palaemonetes vulgaris,Grass shrimp,1,0.8,0.08622336
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,1,30,Syngnathus fuscus,Northern Pipefish,1,5.13,1.4974299
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,1,30,Total sticklebacks,Total sticklebacks,1,1,0.709219858
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,2,30,Total sticklebacks,Total sticklebacks,1,1,0.709219858
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,3,30,Total sticklebacks,Total sticklebacks,1,1,0.709219858
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,4,30,Total sticklebacks,Total sticklebacks,2,2,1.418439716
+2013-06-26,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,6,30,Apeltes quadracus,Fourspine stickleback,1,1,0.460600907
+2013-06-26,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,6,30,Carcinus maenas,Green crab,2,181,8.808666667
+2013-06-26,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,6,30,Crangon septimspinosa,Sand shrimp,3,1.869193548,0.911659585
+2013-06-26,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,6,30,Myoxocephalus aenaeus,Grubby Sculpin,1,1,5.354611
+2013-06-26,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,6,30,Total sticklebacks,Total sticklebacks,1,1,0.709219858
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,Bare,S,2,30,Carcinus maenas,Green crab,1,90.6,9.4979
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,Bare,S,4,30,Carcinus maenas,Green crab,1,50.7,5.31505
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,Bare,S,5,30,Carcinus maenas,Green crab,1,50.7,5.31505
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,Bare,S,6,30,Carcinus maenas,Green crab,1,90.6,9.4979
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,1,30,Apeltes quadracus,Fourspine stickleback,5,5,2.303004534
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,2,30,Apeltes quadracus,Fourspine stickleback,206,206,94.88378682
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,3,30,Apeltes quadracus,Fourspine stickleback,5,5,2.303004534
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,4,30,Apeltes quadracus,Fourspine stickleback,5,5,2.303004534
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,5,30,Apeltes quadracus,Fourspine stickleback,3,3,1.381802721
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,6,30,Apeltes quadracus,Fourspine stickleback,3,3,1.381802721
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,7,30,Apeltes quadracus,Fourspine stickleback,4,4,1.842403627
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,8,30,Apeltes quadracus,Fourspine stickleback,41,41,18.88463718
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,9,30,Apeltes quadracus,Fourspine stickleback,40,40,18.42403627
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,10,30,Apeltes quadracus,Fourspine stickleback,2,2,0.921201814
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,11,30,Apeltes quadracus,Fourspine stickleback,5,5,2.303004534
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,12,30,Apeltes quadracus,Fourspine stickleback,5,5,2.303004534
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,7,30,Cancer irroratus,Rock crab,1,28.39,0.946333333
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,8,30,Cancer irroratus,Rock crab,1,40.85,1.361666667
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,1,30,Carcinus maenas,Green crab,8,47.73,2.32286
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,2,30,Carcinus maenas,Green crab,5,30.02,1.460973333
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,3,30,Carcinus maenas,Green crab,2,3.59,0.174713333
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,4,30,Carcinus maenas,Green crab,1,27.69,1.34758
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,5,30,Carcinus maenas,Green crab,8,57.1,2.778866667
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,6,30,Carcinus maenas,Green crab,3,46.3,2.253266667
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,7,30,Carcinus maenas,Green crab,3,271,13.18866667
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,8,30,Carcinus maenas,Green crab,2,181,8.808666667
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,9,30,Carcinus maenas,Green crab,4,86.46333333,4.207882222
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,10,30,Carcinus maenas,Green crab,1,27.69,1.34758
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,11,30,Carcinus maenas,Green crab,3,39.6,1.9272
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,12,30,Carcinus maenas,Green crab,1,6.18,0.30076
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,1,30,Gasterosteus aculeatus,Threespine stickleback,5,3.3,2.733011583
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,2,30,Gasterosteus aculeatus,Threespine stickleback,205,135.3,112.0534749
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,3,30,Gasterosteus aculeatus,Threespine stickleback,4,2.64,2.186409266
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,4,30,Gasterosteus aculeatus,Threespine stickleback,5,3.3,2.733011583
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,5,30,Gasterosteus aculeatus,Threespine stickleback,3,1.98,1.63980695
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,6,30,Gasterosteus aculeatus,Threespine stickleback,3,1.98,1.63980695
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,7,30,Gasterosteus aculeatus,Threespine stickleback,4,2.64,2.186409266
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,8,30,Gasterosteus aculeatus,Threespine stickleback,42,27.72,22.9572973
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,9,30,Gasterosteus aculeatus,Threespine stickleback,39,25.74,21.31749035
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,10,30,Gasterosteus aculeatus,Threespine stickleback,1,0.66,0.546602317
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,11,30,Gasterosteus aculeatus,Threespine stickleback,2,1.32,1.093204633
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,12,30,Gasterosteus aculeatus,Threespine stickleback,1,0.66,0.546602317
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,1,30,Total sticklebacks,Total sticklebacks,10,10,7.09219858
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,2,30,Total sticklebacks,Total sticklebacks,411,411,291.4893616
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,3,30,Total sticklebacks,Total sticklebacks,9,9,6.382978722
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,4,30,Total sticklebacks,Total sticklebacks,10,10,7.09219858
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,5,30,Total sticklebacks,Total sticklebacks,6,6,4.255319148
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,6,30,Total sticklebacks,Total sticklebacks,6,6,4.255319148
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,7,30,Total sticklebacks,Total sticklebacks,8,8,5.673758864
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,8,30,Total sticklebacks,Total sticklebacks,83,83,58.86524821
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,9,30,Total sticklebacks,Total sticklebacks,79,79,56.02836878
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,10,30,Total sticklebacks,Total sticklebacks,3,3,2.127659574
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,11,30,Total sticklebacks,Total sticklebacks,7,7,4.964539006
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,12,30,Total sticklebacks,Total sticklebacks,6,6,4.255319148
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,1,30,Anguilla rostrata,American eel,1,1,0.079666667
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,2,30,Anguilla rostrata,American eel,1,193.1,3.281333333
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,3,30,Anguilla rostrata,American eel,6,6,0.163
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,5,30,Anguilla rostrata,American eel,1,193.1,3.281333333
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,7,30,Anguilla rostrata,American eel,1,1,0.079666667
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,9,30,Anguilla rostrata,American eel,1,1,0.079666667
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,1,30,Apeltes quadracus,Fourspine stickleback,2,2,0.921201814
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,4,30,Apeltes quadracus,Fourspine stickleback,1,1,0.460600907
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,5,30,Apeltes quadracus,Fourspine stickleback,1,1,0.460600907
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,7,30,Apeltes quadracus,Fourspine stickleback,1,1,0.460600907
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,8,30,Apeltes quadracus,Fourspine stickleback,1,1,0.460600907
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,9,30,Apeltes quadracus,Fourspine stickleback,2,2,0.921201814
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,10,30,Apeltes quadracus,Fourspine stickleback,1,1,0.460600907
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,11,30,Apeltes quadracus,Fourspine stickleback,2,2,0.921201814
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,12,30,Apeltes quadracus,Fourspine stickleback,2,2,0.921201814
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,8,30,Cancer irroratus,Rock crab,2,1,0.033333333
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,9,30,Cancer irroratus,Rock crab,2,9.525,0.3175
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,1,30,Carcinus maenas,Green crab,9,11.95666667,0.581891111
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,2,30,Carcinus maenas,Green crab,4,69.89666667,3.401637778
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,3,30,Carcinus maenas,Green crab,5,33.635,1.636903333
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,4,30,Carcinus maenas,Green crab,3,72.99,3.55218
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,5,30,Carcinus maenas,Green crab,2,55.38,2.69516
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,6,30,Carcinus maenas,Green crab,6,37.62,1.83084
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,8,30,Carcinus maenas,Green crab,2,32.475,1.58045
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,9,30,Carcinus maenas,Green crab,1,1,0.048666667
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,10,30,Carcinus maenas,Green crab,6,42.606,2.073492
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,11,30,Carcinus maenas,Green crab,7,39.8875,1.941191667
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,12,30,Carcinus maenas,Green crab,5,21.68666667,1.055417778
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,1,30,Crangon septimspinosa,Sand shrimp,2,1.246129032,0.607773057
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,2,30,Crangon septimspinosa,Sand shrimp,4,2.492258065,1.215546114
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,3,30,Crangon septimspinosa,Sand shrimp,9,5.607580645,2.734978757
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,4,30,Crangon septimspinosa,Sand shrimp,7,4.361451613,2.1272057
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,5,30,Crangon septimspinosa,Sand shrimp,3,1.869193548,0.911659585
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,6,30,Crangon septimspinosa,Sand shrimp,8,4.984516129,2.431092228
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,7,30,Crangon septimspinosa,Sand shrimp,7,4.361451613,2.1272057
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,8,30,Crangon septimspinosa,Sand shrimp,1,0.623064516,0.303886528
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,9,30,Crangon septimspinosa,Sand shrimp,15,9.345967742,4.558297928
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,10,30,Crangon septimspinosa,Sand shrimp,2,1.246129032,0.607773057
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,11,30,Crangon septimspinosa,Sand shrimp,14,8.722903226,4.254411399
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,12,30,Crangon septimspinosa,Sand shrimp,25,15.5766129,7.597163212
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,9,30,Gasterosteus aculeatus,Threespine stickleback,1,0.66,0.546602317
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,10,30,Menidia menidia,Atlantic Silverside,20,20,0.405
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,1,30,Microgadus tomcod,Tomcod,1,1,0.733972853
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,10,30,Microgadus tomcod,Tomcod,2,2,1.467945705
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,11,30,Microgadus tomcod,Tomcod,1,1,0.733972853
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,12,30,Microgadus tomcod,Tomcod,1,1,0.733972853
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,5,30,Myoxocephalus aenaeus,Grubby Sculpin,1,1,5.354611
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,12,30,Myoxocephalus aenaeus,Grubby Sculpin,1,1,5.354611
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,1,30,Palaemonetes vulgaris,Grass shrimp,6,4.8,0.517340163
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,2,30,Palaemonetes vulgaris,Grass shrimp,2,1.6,0.172446721
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,3,30,Palaemonetes vulgaris,Grass shrimp,2,1.6,0.172446721
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,4,30,Palaemonetes vulgaris,Grass shrimp,1,0.8,0.08622336
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,5,30,Palaemonetes vulgaris,Grass shrimp,1,0.8,0.08622336
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,7,30,Palaemonetes vulgaris,Grass shrimp,9,7.2,0.776010244
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,8,30,Palaemonetes vulgaris,Grass shrimp,13,10.4,1.120903686
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,9,30,Palaemonetes vulgaris,Grass shrimp,3,2.4,0.258670081
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,10,30,Palaemonetes vulgaris,Grass shrimp,3,2.4,0.258670081
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,11,30,Palaemonetes vulgaris,Grass shrimp,1,0.8,0.08622336
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,1,30,Pseudopleuronectes americanus,Winter flounder,1,76.1,1.294283333
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,11,30,Pseudopleuronectes americanus,Winter flounder,1,7.94,0.158283333
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,3,30,Syngnathus fuscus,Northern Pipefish,1,1,0.291896667
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,1,30,Total sticklebacks,Total sticklebacks,2,2,1.418439716
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,4,30,Total sticklebacks,Total sticklebacks,1,1,0.709219858
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,5,30,Total sticklebacks,Total sticklebacks,1,1,0.709219858
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,7,30,Total sticklebacks,Total sticklebacks,1,1,0.709219858
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,8,30,Total sticklebacks,Total sticklebacks,1,1,0.709219858
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,9,30,Total sticklebacks,Total sticklebacks,3,3,2.127659574
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,10,30,Total sticklebacks,Total sticklebacks,1,1,0.709219858
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,11,30,Total sticklebacks,Total sticklebacks,2,2,1.418439716
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,12,30,Total sticklebacks,Total sticklebacks,2,2,1.418439716
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,1,30,Carcinus maenas,Green crab,3,18.55,1.944658333
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,2,30,Carcinus maenas,Green crab,25,65.256,6.841004
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,3,30,Carcinus maenas,Green crab,43,145.1625,15.21786875
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,4,30,Carcinus maenas,Green crab,1,1,0.104833333
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,5,30,Carcinus maenas,Green crab,4,48.93,5.129495
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,6,30,Carcinus maenas,Green crab,23,210.256,22.04183733
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,1,30,Crangon septimspinosa,Sand shrimp,5,3.115322581,35.05208707
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,2,30,Crangon septimspinosa,Sand shrimp,8,4.984516129,56.08333931
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,3,30,Crangon septimspinosa,Sand shrimp,9,5.607580645,63.09375673
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,4,30,Crangon septimspinosa,Sand shrimp,10,6.230645161,70.10417414
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,5,30,Crangon septimspinosa,Sand shrimp,12,7.476774194,84.12500897
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,6,30,Crangon septimspinosa,Sand shrimp,5,3.115322581,35.05208707
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,3,30,Menidia menidia,Atlantic Silverside,300,300,10
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,4,30,Menidia menidia,Atlantic Silverside,20,20,0.666666667
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,3,30,Pseudopleuronectes americanus,Winter flounder,1,7.94,0.264666667
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,5,30,Pseudopleuronectes americanus,Winter flounder,1,3.78,0.126
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,Bare,S,6,30,Pseudopleuronectes americanus,Winter flounder,1,3.78,0.126
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,4,15,Anguilla rostrata,American eel,1,23.5,0.846333333
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,3,30,Apeltes quadracus,Fourspine stickleback,1,1,0.460600907
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,2,30,Cancer irroratus,Rock crab,2,24.15,0.805
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,3,30,Cancer irroratus,Rock crab,2,24.15,0.805
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,6,30,Cancer irroratus,Rock crab,2,24.15,0.805
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,1,30,Carcinus maenas,Green crab,7,68.865,3.35143
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,2,30,Carcinus maenas,Green crab,8,23.265,1.13223
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,3,30,Carcinus maenas,Green crab,16,55.095,2.68129
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,4,15,Carcinus maenas,Green crab,4,35.63,3.467986667
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,5,30,Carcinus maenas,Green crab,5,31.57,1.536406667
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,6,30,Carcinus maenas,Green crab,8,58.05333333,2.825262222
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,7,30,Carcinus maenas,Green crab,2,181,8.808666667
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,8,30,Carcinus maenas,Green crab,5,37.884,1.843688
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,9,30,Carcinus maenas,Green crab,9,47.746,2.323638667
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,10,15,Carcinus maenas,Green crab,3,56.33,5.482786667
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,11,30,Carcinus maenas,Green crab,4,65.56,3.190586667
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,12,30,Carcinus maenas,Green crab,4,15.25,0.742166667
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,1,30,Crangon septimspinosa,Sand shrimp,3,1.869193548,0.911659585
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,2,30,Crangon septimspinosa,Sand shrimp,8,4.984516129,2.431092228
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,3,30,Crangon septimspinosa,Sand shrimp,6,3.738387097,1.823319171
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,4,15,Crangon septimspinosa,Sand shrimp,6,3.738387097,3.646638343
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,5,30,Crangon septimspinosa,Sand shrimp,13,8.09983871,3.950524871
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,6,30,Crangon septimspinosa,Sand shrimp,6,3.738387097,1.823319171
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,7,30,Crangon septimspinosa,Sand shrimp,6,3.738387097,1.823319171
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,8,30,Crangon septimspinosa,Sand shrimp,5,3.115322581,1.519432643
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,9,30,Crangon septimspinosa,Sand shrimp,5,3.115322581,1.519432643
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,10,15,Crangon septimspinosa,Sand shrimp,4,2.492258065,2.431092229
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,11,30,Crangon septimspinosa,Sand shrimp,7,4.361451613,2.1272057
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,12,30,Crangon septimspinosa,Sand shrimp,9,5.607580645,2.734978757
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,2,30,Menidia menidia,Atlantic Silverside,20,20,0.405
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,9,30,Menidia menidia,Atlantic Silverside,5,5,0.10125
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,2,30,Myoxocephalus aenaeus,Grubby Sculpin,1,1,5.354611
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,5,30,Myoxocephalus aenaeus,Grubby Sculpin,1,1,5.354611
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,6,30,Myoxocephalus aenaeus,Grubby Sculpin,1,1,5.354611
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,3,30,Pollachius virens,Pollock,1,1,0.099166667
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,2,30,Pseudopleuronectes americanus,Winter flounder,1,51.8,0.889283333
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,3,30,Total sticklebacks,Total sticklebacks,1,1,0.709219858
+2013-07-19,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,1,110,Cancer irroratus,Rock crab,3,3.875,0.035227273
+2013-07-19,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,1,110,Carcinus maenas,Green crab,31,92.186,2.6918312
+2013-07-19,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,1,110,Crangon septimspinosa,Sand shrimp,64,25.6,0.486948466
+2013-07-19,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,1,110,Myoxocephalus aenaeus,Grubby Sculpin,25,42.7,0.879231818
+2013-07-19,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,1,110,Pholis gunnellus,Rock gunnel,21,119.61,0.545481818
+2013-07-19,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,1,110,Urophysis tenuis,White hake,4,4,0.036363636
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,13,60,Anguilla rostrata,American eel,1,86.8,0.786333333
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,15,60,Anguilla rostrata,American eel,2,99.05,0.888416667
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,13,60,Apeltes quadracus,Fourspine stickleback,2,2,0.460600907
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,16,60,Apeltes quadracus,Fourspine stickleback,3,3,0.69090136
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,13,60,Carcinus maenas,Green crab,10,NA,NA
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,13,60,Crangon septimspinosa,Sand shrimp,10,6.230645161,1.519432643
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,16,60,Gasterosteus aculeatus,Threespine stickleback,1,0.66,0.273301158
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,13,60,Menidia menidia,Atlantic Silverside,150,150,1.51875
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,14,60,Menidia menidia,Atlantic Silverside,75,75,0.759375
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,15,60,Menidia menidia,Atlantic Silverside,50,50,0.50625
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,16,60,Menidia menidia,Atlantic Silverside,50,50,0.50625
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,13,60,Microgadus tomcod,Tomcod,2,2,0.733972853
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,14,60,Microgadus tomcod,Tomcod,2,2,0.733972853
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,13,60,Palaemonetes vulgaris,Grass shrimp,2,1.6,0.08622336
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,14,60,Palaemonetes vulgaris,Grass shrimp,1,0.8,0.04311168
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,16,60,Pollachius virens,Pollock,50,50,2.479166667
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,15,60,Pseudopleuronectes americanus,Winter flounder,1,7.94,0.092116667
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,13,60,Total sticklebacks,Total sticklebacks,2,2,0.709219858
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,16,60,Total sticklebacks,Total sticklebacks,4,4,1.418439716
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,4,200,Anguilla rostrata,American eel,1,NA,NA
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,5,200,Anguilla rostrata,American eel,4,4,0.02
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,5,200,Apeltes quadracus,Fourspine stickleback,2,2,0.01
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,4,200,Carcinus maenas,Green crab,7,69.83,1.09807675
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,6,100,Carcinus maenas,Green crab,7,66.47,2.0904815
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,4,200,Crangon septimspinosa,Sand shrimp,19,11.83822581,19.97968964
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,5,200,Crangon septimspinosa,Sand shrimp,3,1.869193548,3.154687836
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,6,100,Crangon septimspinosa,Sand shrimp,2,1.246129032,4.206250448
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,5,200,Microgadus tomcod,Tomcod,1,1,0.005
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,5,200,Myoxocephalus aenaeus,Grubby Sculpin,1,1,0.005
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,5,200,Pollachius virens,Pollock,1,1,0.014875
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,5,200,Total sticklebacks,Total sticklebacks,2,2,0.01
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,7,132,Anguilla rostrata,American eel,3,3,0.074363636
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,9,150,Anguilla rostrata,American eel,6,6,0.083
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,10,132,Anguilla rostrata,American eel,3,3,0.074363636
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,11,200,Anguilla rostrata,American eel,2,2,0.068
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,7,132,Apeltes quadracus,Fourspine stickleback,6,6,0.628092146
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,8,150,Apeltes quadracus,Fourspine stickleback,3,3,0.276360544
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,9,150,Apeltes quadracus,Fourspine stickleback,44,44,4.05328798
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,10,132,Apeltes quadracus,Fourspine stickleback,4,4,0.418728097
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,7,132,Carcinus maenas,Green crab,16,116.0716667,1.28382298
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,8,150,Carcinus maenas,Green crab,4,66.885,0.651014
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,10,132,Carcinus maenas,Green crab,36,344.81,3.813807576
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,11,200,Carcinus maenas,Green crab,14,79.9325,0.58350725
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,7,132,Crangon septimspinosa,Sand shrimp,1,0.623064516,0.06906512
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,10,132,Crangon septimspinosa,Sand shrimp,3,1.869193548,0.20719536
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,11,200,Crangon septimspinosa,Sand shrimp,5,3.115322581,0.227914896
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,7,132,Gasterosteus aculeatus,Threespine stickleback,1,0.66,0.124227799
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,8,150,Gasterosteus aculeatus,Threespine stickleback,1,0.66,0.109320463
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,9,150,Gasterosteus aculeatus,Threespine stickleback,14,9.24,1.530486486
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,10,132,Gasterosteus aculeatus,Threespine stickleback,1,0.66,0.124227799
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,11,200,Menidia menidia,Atlantic Silverside,50,50,0.151875
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,9,150,Microgadus tomcod,Tomcod,6,6,0.880767423
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,9,150,Myoxocephalus aenaeus,Grubby Sculpin,1,1,1.0709222
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,9,150,Pollachius virens,Pollock,30,30,0.595
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,10,132,Syngnathus fuscus,Northern Pipefish,1,1,0.066340152
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,7,132,Total sticklebacks,Total sticklebacks,7,7,1.12830432
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,8,150,Total sticklebacks,Total sticklebacks,4,4,0.567375886
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,9,150,Total sticklebacks,Total sticklebacks,58,58,8.226950353
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,10,132,Total sticklebacks,Total sticklebacks,5,5,0.805931657
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,Bare,T,1,55,Crangon septimspinosa,Sand shrimp,3,1.98,0.134883117
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,Bare,T,2,55,Crangon septimspinosa,Sand shrimp,38,22.8,1.553199528
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,Bare,T,2,55,Myoxocephalus aenaeus,Grubby Sculpin,3,3,0.054545455
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,Bare,T,1,55,Pholis gunnellus,Rock gunnel,1,4.13,0.075090909
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,Bare,T,1,55,Pseudopleuronectes americanus,Winter flounder,1,7.94,0.144363636
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,2,55,Carcinus maenas,Green crab,1,6.18,0.360912
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,2,55,Crangon septimspinosa,Sand shrimp,44,19.536,0.743205096
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,2,55,Liparis gibbus,Dusky snailfish,1,1,0.018181818
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,2,55,Microgadus tomcod,Tomcod,3,3,0.073263836
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,2,55,Myoxocephalus aenaeus,Grubby Sculpin,1,1,0.041181818
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,2,55,Urophysis tenuis,White hake,1,1,0.018181818
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,1,55,Carcinus maenas,Green crab,5,19.49,22.28947273
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,1,55,Crangon septimspinosa,Sand shrimp,9,NA,NA
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,1,55,Homarus americanus,American lobster,1,28.6,0.52
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,1,55,Myoxocephalus aenaeus,Grubby Sculpin,6,6,0.109090909
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,1,55,Palaemonetes vulgaris,Grass shrimp,30,24,0.436363636
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,1,55,Pholis gunnellus,Rock gunnel,1,4.13,0.075090909
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,1,55,Tautogolabrus adspersus,Cunner,1,1,0.018181818
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,1,55,Carcinus maenas,Green crab,4,24.47,1.429048
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,1,55,Crangon septimspinosa,Sand shrimp,3,0.999,0.038004806
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,1,55,Myoxocephalus aenaeus,Grubby Sculpin,8,7.535,0.310305
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,1,55,Palaemonetes vulgaris,Grass shrimp,5,4,0.056201954
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,1,55,Pholis gunnellus,Rock gunnel,1,1,0.010890909
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,1,55,Tautogolabrus adspersus,Cunner,2,2,0.036363636
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,1,55,Carcinus maenas,Green crab,5,7.68,8.783127273
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,1,55,Crangon septimspinosa,Sand shrimp,35,21,1.430578512
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,1,55,Homarus americanus,American lobster,1,43.3,0.787272727
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,1,55,Myoxocephalus aenaeus,Grubby Sculpin,6,6,0.109090909
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,1,55,Palaemonetes vulgaris,Grass shrimp,5,4,0.072727273
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,1,55,Pseudopleuronectes americanus,Winter flounder,1,7.94,0.144363636
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,1,55,Tautogolabrus adspersus,Cunner,3,3,0.054545455
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,2,58.3,Carcinus maenas,Green crab,4,20.79,1.145411321
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,1,58.3,Myoxocephalus aenaeus,Grubby Sculpin,1,1,0.038850772
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,2,58.3,Myoxocephalus aenaeus,Grubby Sculpin,4,4,0.155403087
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,1,58.3,Palaemonetes vulgaris,Grass shrimp,4,3.2,0.042416569
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,2,58.3,Pholis gunnellus,Rock gunnel,1,4.13,0.03722024
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,2,58.3,Selar crumenophthalmus,Bigeye scad,1,1,0.017152659
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,Bare,T,1,55,Carcinus maenas,Green crab,1,14.25,16.29681818
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,Bare,T,1,55,Crangon septimspinosa,Sand shrimp,58,11.6,0.790224321
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,Bare,T,1,55,Hemitripterus americanus,Sea raven,2,2,0.036363636
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,Bare,T,1,55,Myoxocephalus aenaeus,Grubby Sculpin,1,8.07,0.146727273
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,Bare,T,1,55,Pholis gunnellus,Rock gunnel,1,1,0.018181818
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Carcinus maenas,Green crab,3,13.305,0.777012
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,1,55,Crangon septimspinosa,Sand shrimp,9,2.25,0.08559641
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Crangon septimspinosa,Sand shrimp,72,43.2,1.643451071
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Gasterosteus aculeatus,Threespine stickleback,4,NA,NA
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Microgadus tomcod,Tomcod,1,1,0.024421279
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Myoxocephalus aenaeus,Grubby Sculpin,8,8,0.329454545
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,1,55,Palaemonetes vulgaris,Grass shrimp,1,0.8,0.011240391
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Palaemonetes vulgaris,Grass shrimp,6,4.8,0.067442345
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Pholis gunnellus,Rock gunnel,1,1,0.010890909
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Syngnathus fuscus,Northern Pipefish,1,1,0.012181818
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Total sticklebacks,Total sticklebacks,4,4,0.072727273
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,12,90,Anguilla rostrata,American eel,1,1,0.068555556
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,13,90,Apeltes quadracus,Fourspine stickleback,1,1,0.153533636
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,12,90,Crangon septimspinosa,Sand shrimp,8,4.984516129,0.810364076
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,13,90,Menidia menidia,Atlantic Silverside,40,40,0.27
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,12,90,Myoxocephalus aenaeus,Grubby Sculpin,1,1,1.784870333
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,12,90,Syngnathus fuscus,Northern Pipefish,1,5.13,0.4991433
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,13,90,Syngnathus fuscus,Northern Pipefish,1,1,0.097298889
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,13,90,Total sticklebacks,Total sticklebacks,1,1,0.236406619
+2013-08-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,14,50,Apeltes quadracus,Fourspine stickleback,7,7,1.934523809
+2013-08-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,14,50,Gasterosteus aculeatus,Threespine stickleback,5,3.3,1.63980695
+2013-08-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,14,50,Menidia menidia,Atlantic Silverside,30,30,0.3645
+2013-08-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,14,50,Pollachius virens,Pollock,10,10,0.595
+2013-08-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,14,50,Total sticklebacks,Total sticklebacks,12,12,5.106382978
+2013-08-06,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,13,60,Apeltes quadracus,Fourspine stickleback,101,101,23.2603458
+2013-08-06,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,13,60,Gasterosteus aculeatus,Threespine stickleback,100,66,27.33011583
+2013-08-06,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,13,60,Menidia menidia,Atlantic Silverside,2,2,0.02025
+2013-08-06,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,13,60,Syngnathus fuscus,Northern Pipefish,1,1,0.145948333
+2013-08-06,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,13,60,Total sticklebacks,Total sticklebacks,201,201,71.27659573
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,2,55,Carcinus maenas,Green crab,14,26.55333333,30.36735757
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,2,55,Homarus americanus,American lobster,3,43.53333333,0.791515151
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,2,55,Myoxocephalus aenaeus,Grubby Sculpin,5,9.55,0.173636364
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,2,55,Palaemonetes vulgaris,Grass shrimp,2,1.6,0.029090909
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,2,55,Pholis gunnellus,Rock gunnel,3,10.76,0.195636364
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,2,55,Pseudopleuronectes americanus,Winter flounder,1,3.78,0.068727273
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,2,55,Tautogolabrus adspersus,Cunner,9,9,0.163636364
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,Bare,T,2,55,Urophysis tenuis,White hake,1,1,0.018181818
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,2,55,Apeltes quadracus,Fourspine stickleback,1,1,0.012059369
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,2,55,Carcinus maenas,Green crab,14,38.555,2.251612
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,2,55,Homarus americanus,American lobster,2,32.05,0.582727273
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,2,55,Myoxocephalus aenaeus,Grubby Sculpin,5,5,0.205909091
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,2,55,Palaemonetes vulgaris,Grass shrimp,9,7.2,0.101163517
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,2,55,Pseudopleuronectes americanus,Winter flounder,1,3.78,0.060313636
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,2,55,Tautogolabrus adspersus,Cunner,5,5,0.090909091
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,2,55,Total sticklebacks,Total sticklebacks,1,1,0.018181818
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,13,100,Cancer irroratus,Rock crab,1,40.85,0.4085
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,13,100,Carcinus maenas,Green crab,6,146.7966667,2.143231334
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,14,100,Carcinus maenas,Green crab,6,134.6466667,1.965841334
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,13,100,Crangon septimspinosa,Sand shrimp,57,35.51467742,5.196459638
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,14,100,Crangon septimspinosa,Sand shrimp,49,30.53016129,4.467131969
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,13,100,Menidia menidia,Atlantic Silverside,20,20,0.1215
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,13,100,Myoxocephalus aenaeus,Grubby Sculpin,3,3,4.8191499
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,14,100,Pollachius virens,Pollock,20,20,0.595
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,14,100,Pseudopleuronectes americanus,Winter flounder,1,7.94,0.06565
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,2,55,Ammodytes americanus,American sand lance,3,3,0.054545455
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,2,55,Carcinus maenas,Green crab,14,37.8225,43.25518636
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,2,55,Crangon septimspinosa,Sand shrimp,8,6.4,0.435985832
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,2,55,Homarus americanus,American lobster,1,43.3,0.787272727
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,2,55,Myoxocephalus aenaeus,Grubby Sculpin,4,5.535,0.100636364
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,2,55,Syngnathus fuscus,Northern Pipefish,1,1,0.018181818
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,2,55,Tautogolabrus adspersus,Cunner,10,10,0.181818182
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,3,55,Carcinus maenas,Green crab,2,12.36,0.721824
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,3,55,Crangon septimspinosa,Sand shrimp,24,9.6,0.365211349
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,3,55,Homarus americanus,American lobster,1,22.3,0.405454545
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,3,55,Myoxocephalus aenaeus,Grubby Sculpin,3,3,0.123545455
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,3,55,Palaemonetes vulgaris,Grass shrimp,27,21.6,0.303490552
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,3,55,Tautogolabrus adspersus,Cunner,2,2,0.036363636
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,3,55,Urophysis tenuis,White hake,2,2,0.036363636
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,Bare,T,2,55,Crangon septimspinosa,Sand shrimp,25,10,0.681227863
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,Bare,T,2,55,Palaemonetes vulgaris,Grass shrimp,1,0.8,0.014545455
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,Bare,T,2,55,Pholis gunnellus,Rock gunnel,1,1,0.018181818
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,Bare,T,2,55,Pseudopleuronectes americanus,Winter flounder,2,7.56,0.137454545
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Apeltes quadracus,Fourspine stickleback,1,1,0.012059369
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Carcinus maenas,Green crab,1,6.18,0.360912
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Crangon septimspinosa,Sand shrimp,77,25.641,0.975456688
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Gasterosteus aculeatus,Threespine stickleback,7,NA,NA
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Homarus americanus,American lobster,1,22.3,0.405454545
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Microgadus tomcod,Tomcod,3,2,0.048842557
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Myoxocephalus aenaeus,Grubby Sculpin,12,20.15,0.829813636
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Palaemonetes vulgaris,Grass shrimp,18,14.4,0.202327035
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Pholis gunnellus,Rock gunnel,1,4.13,0.039345455
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Pseudopleuronectes americanus,Winter flounder,1,3.78,0.060313636
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Total sticklebacks,Total sticklebacks,8,8,0.145454545
+2013-08-09,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,1,55,Carcinus maenas,Green crab,1,6.18,7.067672727
+2013-08-09,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,2,55,Carcinus maenas,Green crab,4,7.18,8.211309091
+2013-08-09,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,1,55,Crangon septimspinosa,Sand shrimp,267,213.6,14.55102716
+2013-08-09,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,2,55,Crangon septimspinosa,Sand shrimp,501,400.8,27.30361275
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Anguilla rostrata,American eel,1,NA,0.2055
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Apeltes quadracus,Fourspine stickleback,41,41,0.494434137
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Apeltes quadracus,Fourspine stickleback,66,66,0.795918367
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Carcinus maenas,Green crab,6,47.28666667,2.761541334
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Carcinus maenas,Green crab,4,20.79,1.214136
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Crangon septimspinosa,Sand shrimp,109,43.6,1.658668211
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Crangon septimspinosa,Sand shrimp,89,44.5,1.692906775
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Microgadus tomcod,Tomcod,2,2,0.048842557
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Myoxocephalus aenaeus,Grubby Sculpin,21,21,0.864818182
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Myoxocephalus aenaeus,Grubby Sculpin,7,7,0.288272727
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Palaemonetes vulgaris,Grass shrimp,2,1.6,0.022480782
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Palaemonetes vulgaris,Grass shrimp,15,12,0.168605862
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Syngnathus fuscus,Northern Pipefish,11,11,0.134
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Syngnathus fuscus,Northern Pipefish,10,10,0.121818182
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Tautogolabrus adspersus,Cunner,4,4,0.072727273
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Tautogolabrus adspersus,Cunner,3,3,0.054545455
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Total sticklebacks,Total sticklebacks,41,41,0.745454545
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Total sticklebacks,Total sticklebacks,66,66,1.2
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Apeltes quadracus,Fourspine stickleback,12,12,0.14471243
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Apeltes quadracus,Fourspine stickleback,58,58,0.699443414
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Carcinus maenas,Green crab,10,45.3375,2.64771
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Carcinus maenas,Green crab,23,46.82,2.734288
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Crangon septimspinosa,Sand shrimp,145,58,2.206485235
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Crangon septimspinosa,Sand shrimp,91,27.3,1.038569774
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Myoxocephalus aenaeus,Grubby Sculpin,33,33,1.359
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Myoxocephalus aenaeus,Grubby Sculpin,14,14,0.576545455
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Palaemonetes vulgaris,Grass shrimp,6,4.8,0.067442345
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Palaemonetes vulgaris,Grass shrimp,15,12,0.168605862
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Syngnathus fuscus,Northern Pipefish,5,5,0.060909091
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Syngnathus fuscus,Northern Pipefish,11,11,0.134
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Tautogolabrus adspersus,Cunner,1,1,0.018181818
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Total sticklebacks,Total sticklebacks,12,12,0.218181818
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Total sticklebacks,Total sticklebacks,58,58,1.054545455
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,4,55,Carcinus maenas,Green crab,1,1,1.143636364
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,7,55,Carcinus maenas,Green crab,1,1,1.143636364
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,3,55,Crangon septimspinosa,Sand shrimp,10,10,0.681227863
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,4,55,Crangon septimspinosa,Sand shrimp,6,4.002,0.272627391
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,5,55,Crangon septimspinosa,Sand shrimp,27,27,1.83931523
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,7,55,Crangon septimspinosa,Sand shrimp,12,12,0.817473436
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,8,55,Crangon septimspinosa,Sand shrimp,4,4,0.272491145
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,8,55,Gasterosteus aculeatus,Threespine stickleback,1,NA,NA
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,T,8,55,Total sticklebacks,Total sticklebacks,1,1,0.018181818
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Apeltes quadracus,Fourspine stickleback,76,76,0.916512059
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Apeltes quadracus,Fourspine stickleback,43,43,0.518552876
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,5,55,Apeltes quadracus,Fourspine stickleback,71,71,0.856215213
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,6,55,Apeltes quadracus,Fourspine stickleback,22,22,0.265306122
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Apeltes quadracus,Fourspine stickleback,131,131,1.579777365
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Carcinus maenas,Green crab,3,14.25,0.8322
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Carcinus maenas,Green crab,7,23.45666667,1.369869334
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,6,55,Carcinus maenas,Green crab,2,28.5,1.6644
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Carcinus maenas,Green crab,1,14.25,0.8322
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Crangon septimspinosa,Sand shrimp,33,28.974,1.102253503
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Crangon septimspinosa,Sand shrimp,16,14,0.532599884
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,5,55,Crangon septimspinosa,Sand shrimp,14,14,0.532599884
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,6,55,Crangon septimspinosa,Sand shrimp,7,6.125,0.233012449
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Crangon septimspinosa,Sand shrimp,5,4,0.152171395
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Gasterosteus aculeatus,Threespine stickleback,62,45,0.5265
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Gasterosteus aculeatus,Threespine stickleback,19,12,0.1404
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,5,55,Gasterosteus aculeatus,Threespine stickleback,62,55,0.6435
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,6,55,Gasterosteus aculeatus,Threespine stickleback,24,14,0.1638
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Gasterosteus aculeatus,Threespine stickleback,66,31,0.3627
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Microgadus tomcod,Tomcod,1,1,0.024421279
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Microgadus tomcod,Tomcod,4,4,0.097685114
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Microgadus tomcod,Tomcod,11,11,0.268634064
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Myoxocephalus aenaeus,Grubby Sculpin,6,6.535,0.269123182
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Myoxocephalus aenaeus,Grubby Sculpin,17,15.55,0.640377273
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,5,55,Myoxocephalus aenaeus,Grubby Sculpin,12,13.05,0.537422727
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Myoxocephalus aenaeus,Grubby Sculpin,13,13,0.535363636
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Palaemonetes vulgaris,Grass shrimp,23,18.4,0.258528989
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Palaemonetes vulgaris,Grass shrimp,33,26.4,0.370932897
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,5,55,Palaemonetes vulgaris,Grass shrimp,31,24.8,0.348452115
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,6,55,Palaemonetes vulgaris,Grass shrimp,19,15.2,0.213567425
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Palaemonetes vulgaris,Grass shrimp,4,3.2,0.044961563
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Syngnathus fuscus,Northern Pipefish,3,4.065,0.049519091
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Syngnathus fuscus,Northern Pipefish,2,23.5,0.286272727
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,5,55,Syngnathus fuscus,Northern Pipefish,1,1,0.012181818
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Tautogolabrus adspersus,Cunner,1,1,0.018181818
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Total sticklebacks,Total sticklebacks,138,138,2.509090909
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Total sticklebacks,Total sticklebacks,62,62,1.127272727
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,5,55,Total sticklebacks,Total sticklebacks,133,133,2.418181818
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,6,55,Total sticklebacks,Total sticklebacks,46,46,0.836363636
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Total sticklebacks,Total sticklebacks,197,197,3.581818182
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Urophysis tenuis,White hake,2,2,0.036363636
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,2,60,Anguilla rostrata,American eel,NA,1,0.016666667
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,3,30,Pseudopleuronectes americanus,Winter flounder,NA,76.1,1.294283333
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,Bare,T,2,55,Pseudopleuronectes americanus,Winter flounder,NA,3.78,0.068727273
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,1,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,1,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,1,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,2,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,2,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,2,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,3,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,3,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,3,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,4,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,4,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,4,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,5,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,5,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,5,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-06-26,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,6,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-06-26,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,6,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-06-26,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,6,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,Bare,S,1,30,Fundulus diaphanus,Banded killifish,NA,NA,0.139
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,Bare,S,2,30,Fundulus diaphanus,Banded killifish,NA,NA,0.139
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,Bare,S,3,30,Fundulus diaphanus,Banded killifish,NA,NA,0.139
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,Bare,S,4,30,Fundulus diaphanus,Banded killifish,NA,NA,0.139
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,Bare,S,5,30,Fundulus diaphanus,Banded killifish,NA,NA,0.139
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,Bare,S,6,30,Fundulus diaphanus,Banded killifish,NA,NA,0.139
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,1,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,1,30,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,1,30,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,1,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,1,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,2,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,2,30,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,2,30,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,2,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,2,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,3,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,3,30,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,3,30,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,3,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,3,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,4,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,4,30,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,4,30,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,4,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,4,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,5,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,5,30,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,5,30,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,5,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,5,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,6,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,6,30,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,6,30,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,6,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,6,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,7,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,7,30,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,7,30,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,7,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,7,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,8,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,8,30,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,8,30,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,8,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,8,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,9,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,9,30,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,9,30,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,9,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,9,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,10,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,10,30,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,10,30,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,10,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,10,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,11,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,11,30,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,11,30,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,11,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,11,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,12,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,12,30,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,12,30,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,12,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-03,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,12,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,1,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,1,30,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,2,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,2,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,2,30,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,3,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,3,30,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,4,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,4,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,4,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,4,30,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,5,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,5,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,5,30,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,6,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,6,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,6,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,6,30,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,7,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,7,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,7,30,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,8,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,8,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,8,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,8,30,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,9,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,9,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,9,30,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,10,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,10,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,10,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,10,30,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,11,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,11,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,11,30,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,12,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,12,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,12,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-09,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,12,30,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,1,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,1,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,1,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,2,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,2,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,3,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,3,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,3,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,4,15,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,4,15,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,5,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,5,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,5,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,6,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,6,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,6,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,7,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,7,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,7,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,8,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,8,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,8,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,9,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,9,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,9,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,10,15,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,10,15,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,10,15,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,11,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,11,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,11,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,12,30,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,12,30,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-16,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,12,30,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-19,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,1,110,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-19,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,1,110,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-07-19,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,1,110,Pollachius virens,Pollock,NA,NA,0.11781
+2013-07-19,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,1,110,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,13,60,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,13,60,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,13,60,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,14,60,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,14,60,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,14,60,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,14,60,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,15,60,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,15,60,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,16,60,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,16,60,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,16,60,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-25,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,S,16,60,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,7,132,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,7,132,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,8,150,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,8,150,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,8,150,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,9,150,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,9,150,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,10,132,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,10,132,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,11,200,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-29,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,11,200,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,2,55,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,2,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,2,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,2,55,Pollachius virens,Pollock,NA,NA,0.11781
+2013-07-29,Sambro,Inner Sambro Island,Halifax,44.45545,-63.58772,SG,T,2,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,1,55,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,1,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,1,55,Pollachius virens,Pollock,NA,NA,0.11781
+2013-07-30,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,1,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,1,58.3,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,1,58.3,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,1,58.3,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,1,58.3,Pollachius virens,Pollock,NA,NA,0.11781
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,1,58.3,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,2,58.3,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,2,58.3,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,2,58.3,Pollachius virens,Pollock,NA,NA,0.11781
+2013-07-30,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,2,58.3,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,1,55,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,1,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,1,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,1,55,Pollachius virens,Pollock,NA,NA,0.11781
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,1,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Pollachius virens,Pollock,NA,NA,0.11781
+2013-07-31,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,2,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,12,90,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,12,90,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,13,90,Anguilla rostrata,American eel,NA,NA,0.063
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,13,90,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-07-31,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,13,90,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-08-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,14,50,Anguilla rostrata,American eel,NA,NA,0.063
+2013-08-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,14,50,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-08-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,S,14,50,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-08-06,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,13,60,Anguilla rostrata,American eel,NA,NA,0.063
+2013-08-06,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,13,60,Fundulus diaphanus,Banded killifish,NA,NA,0.263
+2013-08-06,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,13,60,Microgadus tomcod,Tomcod,NA,NA,0.321480109
+2013-08-06,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,13,60,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-08-06,L3F,Lower Three Fathom Harbour,Eastern shore,44.63536,-63.29408,SG,S,13,60,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,2,55,Anguilla rostrata,American eel,NA,NA,0.063
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,2,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,2,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-08-07,Crouch,Croucher Island,South shore,44.64182,-63.95652,SG,T,2,55,Pollachius virens,Pollock,NA,NA,0.11781
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,13,100,Anguilla rostrata,American eel,NA,NA,0.063
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,13,100,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,13,100,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,14,100,Anguilla rostrata,American eel,NA,NA,0.063
+2013-08-07,EP,East Petpeswick,Eastern shore,44.7121,-63.16647,SG,S,14,100,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,3,55,Anguilla rostrata,American eel,NA,NA,0.063
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,3,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,3,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,3,55,Pollachius virens,Pollock,NA,NA,0.11781
+2013-08-07,Straw,Strawberry Island,South shore,44.646833,-62.04675,SG,T,3,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Anguilla rostrata,American eel,NA,NA,0.063
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-08-08,Cable,Cable Island,Eastern shore,44.74676,-62.79261,SG,T,3,55,Pollachius virens,Pollock,NA,NA,0.11781
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Anguilla rostrata,American eel,NA,NA,0.2055
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Pollachius virens,Pollock,NA,NA,0.11781
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,1,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Pollachius virens,Pollock,NA,NA,0.11781
+2013-08-12,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,2,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Anguilla rostrata,American eel,NA,NA,0.2055
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Pollachius virens,Pollock,NA,NA,0.11781
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,1,55,Urophysis tenuis,White hake,NA,NA,0.0147
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Anguilla rostrata,American eel,NA,NA,0.2055
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Pollachius virens,Pollock,NA,NA,0.11781
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2013-08-13,SecPen,Second Peninsula,South shore,44.40193,-64.28066,SG,T,2,55,Urophysis tenuis,White hake,NA,NA,0.0147
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Anguilla rostrata,American eel,NA,NA,0.2055
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Pollachius virens,Pollock,NA,NA,0.11781
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,3,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Anguilla rostrata,American eel,NA,NA,0.2055
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Pollachius virens,Pollock,NA,NA,0.11781
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,4,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,5,55,Anguilla rostrata,American eel,NA,NA,0.2055
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,5,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,5,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,5,55,Pollachius virens,Pollock,NA,NA,0.11781
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,5,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,6,55,Anguilla rostrata,American eel,NA,NA,0.2055
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,6,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,6,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,6,55,Pollachius virens,Pollock,NA,NA,0.11781
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,6,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Anguilla rostrata,American eel,NA,NA,0.2055
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Menidia menidia,Atlantic Silverside,NA,NA,0.110565
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Pholis gunnellus,Rock gunnel,NA,NA,0.0018
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Pollachius virens,Pollock,NA,NA,0.11781
+2014-07-01,CB,Crescent Beach,South shore,44.23835,-64.40623,SG,T,7,55,Pseudopleuronectes americanus,Winter flounder,NA,NA,0.02595
