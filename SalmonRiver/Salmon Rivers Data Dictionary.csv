@@ -1,0 +1,7 @@
+SalmonRivers,Field,English,French
+,OBJECTID,ArcGIS Field,Identifiant ArcGIS
+,Shape,ArcGIS Field,Identifiant ArcGIS
+,River1,Name of most downstream river mouth/inlet,nom de l'embouchure de la rivière la plus en aval
+,DU,"Name of Designatable Unit (OBoF - Outer Bay of Fundy, IBoF - Inner Bay of Fundy, SU - Southern Upland, ECB - Eastern Cape Breton)",nom de l'unité désigné
+,COSEWIC,Status of the species designated by the Committee on the Status of Endangered Wildlife in Canada (COSEWIC),Situation des espŠces d‚sign‚es par le Comit‚ sur la situation des espŠces en p‚ril au Canada (COSEPAC) 
+,SARA,Status of the species designated by the Species At Risk Act,Situation des espŠces d‚sign‚es dans la Loi sur les espŠces en p‚ril
