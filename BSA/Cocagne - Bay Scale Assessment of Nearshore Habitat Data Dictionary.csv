@@ -1,11 +1,11 @@
 Table,Fields,English,French
 Bottom_Features_20,OBJECTID,ArcGIS Field,Identifiant ArcGIS
 Bottom_Features_20,Shape,ArcGIS Field,Identifiant ArcGIS
-Bottom_Features_20,Beggiatoa,Beggiatoa absence or presence (0= Absent, 1 = Present),"Absence ou présence de Beggiatoa (0= absente, 1 = présent)"
-Bottom_Features_20,Cladophora,Cladophora absence or presence (0= Absent, 1 = Present),"Absence ou présence de Cladophora (0= absente, 1 = présent)"
-Bottom_Features_20,oysters,oysters absence or presence (0= Absent, 1 = Present),"Absence ou présence de oysters (0= absente, 1 = présent)"
-Bottom_Features_20,Leptomitus,Leptomitus absence or presence (0= Absent, 1 = Present),"Absence ou présence de Leptomitus (0= absente, 1 = présent)"
-Bottom_Features_20,Cover,Eelgrass cover (1 = Continuous bed, 2 = Continuous bed with bare patches, 3 = Patches of clumps of leaves, no continous bed, 4 = No live eelgrass),Couverture de la zostère (1 = en continue, 2 = en continue avec trous, 3 = zostère intermitent, non continue,  4 = pas de zostère)
+Bottom_Features_20,Beggiatoa,"Beggiatoa absence or presence (0= Absent, 1 = Present)","Absence ou présence de Beggiatoa (0= absente, 1 = présent)"
+Bottom_Features_20,Cladophora,"Cladophora absence or presence (0= Absent, 1 = Present)","Absence ou présence de Cladophora (0= absente, 1 = présent)"
+Bottom_Features_20,oysters,"oysters absence or presence (0= Absent, 1 = Present)","Absence ou présence de oysters (0= absente, 1 = présent)"
+Bottom_Features_20,Leptomitus,"Leptomitus absence or presence (0= Absent, 1 = Present)","Absence ou présence de Leptomitus (0= absente, 1 = présent)"
+Bottom_Features_20,Cover,"Eelgrass cover (1 = Continuous bed, 2 = Continuous bed with bare patches, 3 = Patches of clumps of leaves, no continous bed, 4 = No live eelgrass)","Couverture de la zostère (1 = en continue, 2 = en continue avec trous, 3 = zostère intermitent, non continue,  4 = pas de zostère)"
 Bottom_Features_20,Cover Quality,Eelgrass cover index determined by towfish imagery.,Indice de couverture des zostères déterminé par imagerie du poisson. 
 Bottom_Features_20,Latitude,Latitude of the location where the data collection started in decimal degrees.,Latitude de l'emplacement où la collecte des données a débuté en degrés décimaux.
 Bottom_Features_20,Longitude,Longitude of the location where the data collection started in decimal degrees.,Longitude de l'emplacement où la collecte des données a débuté en degrés décimaux.
