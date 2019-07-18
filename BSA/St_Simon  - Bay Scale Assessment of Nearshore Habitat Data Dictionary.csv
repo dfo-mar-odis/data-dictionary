@@ -1,0 +1,13 @@
+Table, Fields, English, French
+,OBJECTID,ArcGIS Field ,Identifiant ArcGIS
+,Clip,Video associated with point. ,Vidéo associée au point 
+,Transect,Towfish transect identifier. ,Identificateur de transect du poisson 
+,St_Time,Time of sensor reading,Heure de la lecture du capteur
+,StLongDec,Longitude of the location where the data collection started in decimal degrees.,Longitude de l'emplacement où la collecte des données a débuté en degrés décimaux.
+,StLatDec,Latitude of the location where the data collection started in decimal degrees.,Latitude de l'emplacement où la collecte des données a débuté en degrés décimaux.
+,Shape,ArcGIS Field ,Identifiant ArcGIS
+,CompassA,Travel direction of video footage in degrees. ,Direction de déplacement de l’enregistrement vidéo en degrés
+Background,OBJECTID,ArcGIS Field ,Identifiant ArcGIS
+Background,Shape ,ArcGIS Field ,Identifiant ArcGIS
+Background,Shape_Length,ArcGIS Field ,Identifiant ArcGIS
+Background,Shape_Area,ArcGIS Field ,Identifiant ArcGIS
