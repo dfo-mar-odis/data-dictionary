@@ -1,0 +1,24 @@
+Table,Fields,English,French
+Bottom_Features_20,OBJECTID,ArcGIS Field,Identifiant ArcGIS
+Bottom_Features_20,Shape,ArcGIS Field,Identifiant ArcGIS
+Bottom_Features_20,Beggiatoa,Beggiatoa absence or presence (0= Absent, 1 = Present),"Absence ou présence de Beggiatoa (0= absente, 1 = présent)"
+Bottom_Features_20,Cladophora,Cladophora absence or presence (0= Absent, 1 = Present),"Absence ou présence de Cladophora (0= absente, 1 = présent)"
+Bottom_Features_20,oysters,oysters absence or presence (0= Absent, 1 = Present),"Absence ou présence de oysters (0= absente, 1 = présent)"
+Bottom_Features_20,Leptomitus,Leptomitus absence or presence (0= Absent, 1 = Present),"Absence ou présence de Leptomitus (0= absente, 1 = présent)"
+Bottom_Features_20,Cover,Eelgrass cover (1 = Continuous bed, 2 = Continuous bed with bare patches, 3 = Patches of clumps of leaves, no continous bed, 4 = No live eelgrass),Couverture de la zostère (1 = en continue, 2 = en continue avec trous, 3 = zostère intermitent, non continue,  4 = pas de zostère)
+Bottom_Features_20,Cover Quality,Eelgrass cover index determined by towfish imagery.,Indice de couverture des zostères déterminé par imagerie du poisson. 
+Bottom_Features_20,Latitude,Latitude of the location where the data collection started in decimal degrees.,Latitude de l'emplacement où la collecte des données a débuté en degrés décimaux.
+Bottom_Features_20,Longitude,Longitude of the location where the data collection started in decimal degrees.,Longitude de l'emplacement où la collecte des données a débuté en degrés décimaux.
+Bottom_Features_20,Transect,Towfish transect identifier.,Identificateur de transect du poisson 
+Video_Locations,OBJECTID,ArcGIS Field,Identifiant ArcGIS
+Video_Locations,File_Name,Video associated with point.,Vidéo associée au point 
+Video_Locations,Date,Date of video recording,Date de l'enregistrement du vidéo
+Video_Locations,CompassA,Travel direction of video footage in degrees.,Direction de déplacement de l’enregistrement vidéo en degrés
+Video_Locations,Video_Locations,Transect,Towfish transect identifier.,Identificateur de transect du poisson 
+Video_Locations,Start_Dec_Long,Longitude of the location where the data collection started in decimal degrees.,Longitude de l'emplacement où la collecte des données a débuté en degrés décimaux.
+Video_Locations,Start_Dec_Lat,Latitude of the location where the data collection started in decimal degrees.,Latitude de l'emplacement où la collecte des données a débuté en degrés décimaux.
+Background,OBJECTID,ArcGIS Field,Identifiant ArcGIS
+Background,Shape,ArcGIS Field,Identifiant ArcGIS
+Background,FCName,The feature class name of the source data.,Le nom de la classe d'entités des données source.
+Background,Shape_Length,ArcGIS Field,Identifiant ArcGIS
+Background,Shape_Area,ArcGIS Field,Identifiant ArcGIS
