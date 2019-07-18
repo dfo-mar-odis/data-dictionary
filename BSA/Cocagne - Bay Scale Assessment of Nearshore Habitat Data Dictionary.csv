@@ -14,7 +14,7 @@ Video_Locations,OBJECTID,ArcGIS Field,Identifiant ArcGIS
 Video_Locations,File_Name,Video associated with point.,Vidéo associée au point 
 Video_Locations,Date,Date of video recording,Date de l'enregistrement du vidéo
 Video_Locations,CompassA,Travel direction of video footage in degrees.,Direction de déplacement de l’enregistrement vidéo en degrés
-Video_Locations,Video_Locations,Transect,Towfish transect identifier.,Identificateur de transect du poisson 
+Video_Locations,Transect,Towfish transect identifier.,Identificateur de transect du poisson 
 Video_Locations,Start_Dec_Long,Longitude of the location where the data collection started in decimal degrees.,Longitude de l'emplacement où la collecte des données a débuté en degrés décimaux.
 Video_Locations,Start_Dec_Lat,Latitude of the location where the data collection started in decimal degrees.,Latitude de l'emplacement où la collecte des données a débuté en degrés décimaux.
 Background,OBJECTID,ArcGIS Field,Identifiant ArcGIS
