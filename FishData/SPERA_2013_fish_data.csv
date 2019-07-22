@@ -1,4 +1,4 @@
-date,site,engSiteName_nomSiteAng,shore_côte,latitude,longitude,habitat,gear_équipement,transect,area_m2,species_espèce,engCommonName_nomCommunAng,rawAbundance_abondanceBrute,calibratedYOYAbundance_abondanceCalibréeJDA,calibratedDensity_densitéCalibrée_m^-2
+date,site,engSiteName_nomSiteAng,shore_côte,latitude,longitude,habitat,gear_équipement,transect,area_m^2,species_espèce,engCommonName_nomCommunAng,rawAbundance_abondanceBrute,calibratedYOYAbundance_abondanceCalibréeJDA,calibratedDensity_densitéCalibrée_m^-2
 2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,1,60,Carcinus maenas,Green crab,2,59.145,3.10018375
 2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,2,60,Carcinus maenas,Green crab,1,90.6,4.74895
 2013-06-25,CB,Crescent Beach,South shore,44.23835,-64.40623,Bare,S,3,60,Carcinus maenas,Green crab,2,39.195,2.05447125
