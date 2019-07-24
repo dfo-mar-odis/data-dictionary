@@ -1,16 +1,16 @@
 name_nom,description_en,description_fr
-date,date of observation in ISO standard format (YYYY-MM-DD),date de l’observation en format standard ISO (AAAA-MM-JJ)
-site,site where observations occurred,site où les observations ont été effectuées
-engSiteName_nomSiteAng,commonly used english name of site,nom du site couramment utilisé en anglais
-shore_côte,shoreline observation was collected 'South shore' or 'North shore',côte où l’observation a été effectuée («?South shore?» [«?côte sud?»] ou «?North shore?» [«?côte nord?»])
-latitude,latitude of sample site in decimal degrees (WGS84),latitude du site d’échantillonnage en degrés décimaux (WGS84)
-longitude,longitude of sample site in decimal degrees (WGS84),longitude du site d’échantillonnage en degrés décimaux (WGS84)
-habitat,"type of habitat sampled, ' Bare' or 'SG' for seagrass ",type d’habitat échantillonné («?Bare?» [«?nu?»] ou «?SG?» [seagrass] pour les herbiers) 
-gear_équipement,"gear used to collect transect observations 'S' = snorkel, 'T' = trawl","équipement utilisé pour effectuer les observations dans les transects («?S?» = tuba [snorkel], «?T?» = chalut [trawl])"
-transect,transect identification number,numéro d’identification du transect
-area_m2,area covered by transect,superficie couverte par le transect
-species_espèce,scientific name of observed species,nom scientifique de l’espèce observée
-engCommonName_nomCommunAng,commonly used english name of observed species,nom commun anglais de l’espèce observée
+date,date of observation in ISO standard format (YYYY-MM-DD),date de lâ€™observation en format standard ISO (AAAA-MM-JJ)
+site,site where observations occurred,site oÃ¹ les observations ont Ã©tÃ© effectuÃ©es
+engSiteName_nomSiteAng,commonly used english name of site,nom du site couramment utilisÃ© en anglais
+shore_cÃ´te,shoreline observation was collected 'South shore' or 'North shore',cÃ´te oÃ¹ lâ€™observation a Ã©tÃ© effectuÃ©e (Â«South shoreÂ» [Â«cÃ´te sudÂ»] ou Â«North shoreÂ» [Â«cÃ´te nordÂ»])
+latitude,latitude of sample site in decimal degrees (WGS84),latitude du site dâ€™Ã©chantillonnage en degrÃ©s dÃ©cimaux (WGS84)
+longitude,longitude of sample site in decimal degrees (WGS84),longitude du site dâ€™Ã©chantillonnage en degrÃ©s dÃ©cimaux (WGS84)
+habitat,"type of habitat sampled, ' Bare' or 'SG' for seagrass ",type dâ€™habitat Ã©chantillonnÃ© (Â«BareÂ» [nu] ou Â«SGÂ» [seagrass] pour les herbiers) 
+gear_Ã©quipement,"gear used to collect transect observations 'S'Â =Â snorkel, 'T' = trawl","Ã©quipement utilisÃ© pour effectuer les observations dans les transects (Â«?S?Â»Â = tuba [snorkel], Â«?T?Â» = chalut [trawl])"
+transect,transect identification number,numÃ©ro dâ€™identification du transect
+area_m2,area covered by transect in square meters (m^2),superficie couverte par le transect en mÃ¨tres carrÃ©s (m^2)
+species_espÃ¨ce,scientific name of observed species,nom scientifique de lâ€™espÃ¨ce observÃ©e
+engCommonName_nomCommunAng,commonly used english name of observed species,nom commun anglais de lâ€™espÃ¨ce observÃ©e
 rawAbundance_abondanceBrute,raw abundance from observations,abondance brute selon les observations
-YOYequivalentAbundance_abondanceÉquivalenteJDA,"calculated young of year equivalent abundance, not calibrated for the gear used or day/night differences","abondance calculée de l’équivalent de jeunes de l’année, non étalonnée en fonction de l’équipement utilisé ou des différences jour/nuit"
-calibratedDensity_densitéCalibrée_m^-2,calculated density calibrated for sampling gear and day/night differences in individuals/m^2,densité calculée et étalonnée en fonction de l’équipement d’échantillonnage et des différences jour/nuit chez les individus/m2
+YOYequivalentAbundance_abondanceÃ‰quivalenteJDA,"calculated young of year equivalent abundance, not calibrated for the gear used or day/night differences","abondance calculÃ©e de lâ€™Ã©quivalent de jeunes de lâ€™annÃ©e, non Ã©talonnÃ©e en fonction de lâ€™Ã©quipement utilisÃ© ou des diffÃ©rences jour/nuit"
+calibratedDensity_densitÃ©CalibrÃ©e_m^-2,calculated density calibrated for sampling gear and day/night differences in individuals/m^2,densitÃ© calculÃ©e et Ã©talonnÃ©e en fonction de lâ€™Ã©quipement dâ€™Ã©chantillonnage et des diffÃ©rences jour/nuit chez les individus/m^2
