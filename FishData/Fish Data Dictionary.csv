@@ -8,7 +8,7 @@ longitude,longitude of sample site in decimal degrees (WGS84),longitude du site 
 habitat,"type of habitat sampled, ' Bare' or 'SG' for seagrass ",type d’habitat échantillonné («Bare» [nu] ou «SG» [seagrass] pour les herbiers) 
 gear_équipement,"gear used to collect transect observations 'S' = snorkel, 'T' = trawl","équipement utilisé pour effectuer les observations dans les transects («?S?» = tuba [snorkel], «?T?» = chalut [trawl])"
 transect,transect identification number,numéro d’identification du transect
-area_m2,area covered by transect in square meters (m^2),superficie couverte par le transect en mètres carrés (m^2)
+area_m^2,area covered by transect in square meters (m^2),superficie couverte par le transect en mètres carrés (m^2)
 species_espèce,scientific name of observed species,nom scientifique de l’espèce observée
 engCommonName_nomCommunAng,commonly used english name of observed species,nom commun anglais de l’espèce observée
 rawAbundance_abondanceBrute,raw abundance from observations,abondance brute selon les observations
