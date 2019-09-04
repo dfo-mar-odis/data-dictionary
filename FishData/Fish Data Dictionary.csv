@@ -11,6 +11,8 @@ transect,transect identification number,numéro d’identification du transect
 area_m^2,area covered by transect in square meters (m^2),superficie couverte par le transect en mètres carrés (m^2)
 species_espèce,scientific name of observed species,nom scientifique de l’espèce observée
 engCommonName_nomCommunAng,commonly used english name of observed species,nom commun anglais de l’espèce observée
+TSN,Taxonomic Serial Number (www.itis.gov),Numéro de série taxonomique (www.itis.gov)
+AphiaID,Aphia platform identification number (http://www.marinespecies.org/about.php),Numéro d'identification de la plateforme Aphia (http://www.marinespecies.org/about.php)
 rawAbundance_abondanceBrute,raw abundance from observations,abondance brute selon les observations
 YOYequivalentAbundance_abondanceÉquivalenteJDA,"calculated young of year equivalent abundance, not calibrated for the gear used or day/night differences","abondance calculée de l’équivalent de jeunes de l’année, non étalonnée en fonction de l’équipement utilisé ou des différences jour/nuit"
 calibratedDensity_densitéCalibrée_m^-2,calculated density calibrated for sampling gear and day/night differences in individuals/m^2,densité calculée et étalonnée en fonction de l’équipement d’échantillonnage et des différences jour/nuit chez les individus/m^2
