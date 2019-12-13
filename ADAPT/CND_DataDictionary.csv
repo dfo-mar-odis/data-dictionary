@@ -1,0 +1,33 @@
+FieldNames,Description_En,Description_Fr
+OBJECTID,ArcGIS Field,Identifiant ArcGIS
+MISSION,A 10 character field to identify the survey.,Champ de 10 caractères pour identifier le relevé.
+SETNO,Each tow is assigned a numeric set identifier starting with 1 for the first tow and then assigned consecutively.,Un identificateur numérique établi commençant par 1 pour le premier trait est attribué consécutivement à chaque trait.
+SDATE,The local date and standard time at the beginning of the tow.,Date et heure standard locales au début du trait.
+STRAT,A numeric code to identify stratum.,Code numérique pour déterminer la strate.
+AREA,A numeric code to identify the NAFO area.,Un code numérique pour identifier la zone NAFO.
+DUR,Duration of tow in minutes.,Durée du remorquage en minutes.
+DIST,The distance towed in hundredths of nautical miles.,Distance de trait réelle en milles marins.
+HOWD,A single digit code to identify the source of information for the distance.,Un identificateur numérique établi commençant par 1 pour le premier trait est attribué consécutivement à chaque trait.
+SPEED,"The average speed of the vessel over bottom, based on GPS, to the nearest tenth of a nautical mile.","La vitesse moyenne du navire au-dessus du fond, basée sur le GPS, au dixième de mille marin le plus proche."
+HOWS,A single digit code to identify the source of information for the speed.,Un code à un chiffre pour identifier la source d'information pour la vitesse.
+DMIN,"The minimum(shallowest) bottom depth, Depth in fathoms.","Profondeur minimale (la moins profonde), en brasses."
+DMAX,"The maximum(deepest) bottom depth, in fathoms.","Profondeur maximale (la plus profonde), en brasses."
+WIND,"Wind Direction. In true degrees, between 0 and 360.","Direction du vent. En degrés vrais, entre 0 et 360."
+FORCE,A single digit code to identify wind force on the Beaufort scale,Un code à un chiffre pour identifier la force du vent sur l'échelle de Beaufort.
+CURNT,A single digit code to identify the direction of the tide in relation to the vessel,Un code à un chiffre pour identifier la direction de la marée par rapport au navire
+TYPE,A numeric code to identify the experiment type.,Un code numérique pour identifier le type d'expérience.
+GEAR,A single digit numeric code to identify the gear being used.,Description de l’engin utilisé.
+AUX,A single digit numeric code to identify any auxiliary gear being used.,Un code numérique pour identifier le type d'expérience.
+DEP,Depth in fathoms.,Profondeur en brasses
+REMARKS,Any comments pertaining to set.,Tout commentaire reliée à l`ensemble.
+START_DEP,"The bottom depth at start of a set, in fathoms.",Profondeur en brasses au début.
+END_DEP,"The bottom depth at end of a set, in fathoms.",Profondeur en brasses à la fin.
+SURF_TEMP,Surface Temperature in celsius.,Température de surface en celsius.
+BOTT_TEMP,Bottom Temperature in celsius.,Température au fond en celsius.
+BOTT_SAL,Bottom Salinity measured in pounds per unit squared.,Salinité au fond mesurée en livres par unité au carré.
+SLAT,The latitude at the start of a tow recorded in decimal degrees.,Latitude au début d’un trait enregistrée en degrés décimaux.
+SLONG,The longitude at the start of a tow recorded in decimal degrees.,Longitude au début d’un trait enregistrée en degrés décimaux.
+ELAT,"The latitude at the end of a tow recorded in degrees, minutes and decimal minutes.",Latitude à la fin d’un trait enregistrée en degrés décimaux.
+ELONG,"The longitude at the end of a tow recorded in degrees, minutes and decimal minutes.",Longitude à la fin d’un trait enregistrée en degrés décimaux.
+YEAR,Year  of the survey,Année à partir de la date du relevé.
+Shape_Length,ArcGIS Field,Identifiant ArcGIS
