@@ -1,11 +1,11 @@
-SalmonRivers,Field,English,French,
- ,OBJECTID,ArcGIS Field,Identifiant ArcGIS,
- ,Shape,ArcGIS Field,Identifiant ArcGIS,
- ,River / Rivière,Name of most downstream river mouth/inlet,nom de l'embouchure de la rivière la plus en aval,
- ,DU,"Name of Designatable Unit (OBoF - Outer Bay of Fundy, IBoF - Inner Bay of Fundy, SU - Southern Upland, ECB - Eastern Cape Breton)",nom de l'unité désigné,
- ,COSEWIC,Status of the species designated by the Committee on the Status of Endangered Wildlife in Canada (COSEWIC),Situation des espèces désignés par le Comité‚ sur la situation des espèces en péril au Canada (COSEPAC),
- ,SARA,Status of the species designated by the Species At Risk Act,Situation des espèces désignés dans la Loi sur les espèces en péril,
-ARP Boundaries,OBJECTID,ArcGIS Field,Identifiant ArcGIS,
-,Shape,ArcGIS Field,Identifiant ArcGIS,
-,Shape_Length,ArcGIS Field,Identifiant ArcGIS,
-,ARP/PIL,Area Response Planning extent,Étendue de la planification d’intervention localisée,
+SalmonRivers,Field,English,French
+ ,OBJECTID,ArcGIS Field,Identifiant ArcGIS
+ ,Shape,ArcGIS Field,Identifiant ArcGIS
+ ,River / Rivière,Name of most downstream river mouth/inlet,nom de l'embouchure de la rivière la plus en aval
+ ,DU,"Name of Designatable Unit (OBoF - Outer Bay of Fundy, IBoF - Inner Bay of Fundy, SU - Southern Upland, ECB - Eastern Cape Breton)","nom de l'unité désigné (OBoF - l'extérieur de la baie de Fundy, IBoF - l’intérieur de la baie de Fundy, SU - hautes terres du sud de la Nouvelle-Écosse, ECB - l'est du Cap-Breton)"
+ ,COSEWIC,Status of the species designated by the Committee on the Status of Endangered Wildlife in Canada (COSEWIC),Situation des espèces désignés par le Comité‚ sur la situation des espèces en péril au Canada (COSEPAC)
+ ,SARA,Status of the species designated by the Species At Risk Act,Situation des espèces désignés dans la Loi sur les espèces en péril
+ARP Boundaries,OBJECTID,ArcGIS Field,Identifiant ArcGIS
+,Shape,ArcGIS Field,Identifiant ArcGIS
+,Shape_Length,ArcGIS Field,Identifiant ArcGIS
+,ARP/PIL,Area Response Planning extent,Étendue de la planification d’intervention localisée
