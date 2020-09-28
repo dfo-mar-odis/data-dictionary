@@ -1,0 +1,29 @@
+﻿file_fichier,name_nom,description_en,description_fr
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,mission,Unique mission identification code for each trawl year,Code d’identification de mission unique pour chaque année de chalutage
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,setno,Unique identification code for each set within a trawl year,Code d’identification unique pour chaque ensemble au cours d’une année de chalutage
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,station,"trawl area: A-River Area, B-Upper Passamaquoddy Bay Area, C-Lower Passamaquoddy Bay Area, D-Outer Passamaquoddy Bay Area","Zone de chalutage : A-Secteur de la rivière, B-Secteur supérieur de la baie Passamaquoddy, C-Secteur inférieur de la baie Passamaquoddy, D-Secteur extérieur de la baie Passamaquoddy"
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,time_start,Time trawl began (datetime ISO 8601),Début de la période de chalutage (date et heure ISO 8601)
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,time_finish,Time trawl finished (datetime ISO 8601),Fin de la période de chalutage (date et heure ISO 8601)
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,latitude_start,"latitude of the transect start in decimal degrees (WGS84, EPSG: 4326) ","Latitude du point de départ du transect en degrés décimaux (WGS84, EPSG : 4326) "
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,longitude_start,"longitude of the transect start in decimal degrees (WGS84, EPSG: 4326) ","Longitude du point de départ du transect en degrés décimaux (WGS84, EPSG : 4326) "
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,latitude_finish,"latitude of the transect end in decimal degrees (WGS84, EPSG: 4326) ","Latitude du lieu de fin du transect en degrés décimaux (WGS84, EPSG : 4326) "
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,longitude_finish,"longitude of the transect end in decimal degrees (WGS84, EPSG: 4326) ","Longitude du lieu de fin du transect en degrés décimaux (WGS84, EPSG : 4326) "
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,depth_start_m,Beginning trawl depth in metres (m),Profondeur en mètres (m) au début du chalutage
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,depth_finish_m,End trawl depth in metres (m),Profondeur en mètres (m) à la fin du chalutage
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,speed_k,Trawl speed in knots (knts),Vitesse du chalut en nœuds
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,depth_trwl_ave_m,Average depth of trawl at cod end in metres (m),Profondeur moyenne en mètres (m) du cul de chalut
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,temp_trwl_ave_c ,Average temperature of trawl at cod end in degrees celcius (°C),Température moyenne en degrés Celsius (°C) au cul de chalut
+passamaquoddy_bay_biodiversity_trawl_set_data.csv,total_time_trawled,Total minutes trawled (minutes),Nombre total de minutes de chalutage (minutes)
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,setno,Unique identification code for each set within a trawl year,Code d’identification unique pour chaque ensemble au cours d’une année de chalutage
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,scientific_name,Identification to lowest taxon level,nom scientific
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,common_name,Common name for each species,nom commun
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,length_mm,"Measurement in millimeters (mm) of total length for all fish species, shell width for bivalves except scallop species where shell height measured and carapace length from posterior portion of thorax to eye socket in lobster","Mesure en millimètres (mm) de la longueur totale pour toutes les espèces de poissons, de la largeur de la coquille pour les bivalves, à l’exception des espèces de pétoncles pour lesquelles la hauteur de la coquille est mesurée, et de la longueur de la carapace de la partie postérieure du thorax à l’orbite chez le homard"
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,weight_g,Individual mass measured in grams (g),Masse individuelle en grammes (g)
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,sex,"male (M), female(F), berried female (FB), and not identified (NA)","Mâle (M), femelle (F), femelle œuvée (FO) et non défini (S. O.)"
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,comments,comments,Commentaires
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,setno,Unique identification code for each set within a trawl year,Code d’identification unique pour chaque ensemble au cours d’une année de chalutage
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,scientific_name,Identification to lowest taxonomic level,nom scientific
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,common_name,Common name for each species,nom commun
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,abundance,Total number of individuals caught,Nombre total d’individus capturés
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,biomass_g,Total biomass of individual species captured in grams (g),Biomasse totale en grammes (g) de chaque espèce capturée 
+passamaquoddy_bay_biodiversity_trawl_sample_data.csv,comments,comments,
