@@ -1,0 +1,27 @@
+file_fichier,name_nom ,description_en ,description_fr
+grainsize_samples.csv,sample_no,sample primary key,Clé primaire de l'échantillon
+grainsize_samples.csv,project,project sample is associated with,L'échantillon de projet est associé à
+grainsize_samples.csv,region,marine region sample was collected in,L'échantillon de la région marine a été prélevé dans
+grainsize_samples.csv,leader,project lead,Chargé de projet
+grainsize_samples.csv,datetime,date of observation in ISO standard format (YYYY-MM-DD) ,date de l’observation en format standard ISO (AAAA-MM-JJ)
+grainsize_samples.csv,lat,latitude of sample site in decimal degrees (WGS84) ,latitude du site d’échantillonnage en degrés décimaux (WGS84)
+grainsize_samples.csv,long,longitude of sample site in decimal degrees (WGS84) ,longitude du site d’échantillonnage en degrés décimaux (WGS84)
+grainsize_samples.csv,event,is the spefiic sampling at a station,L'échantillonnage précis effectué à une station
+grainsize_samples.csv,startdepth,depth of water of first sampling,Profondeur de l'eau du premier échantillon
+grainsize_samples.csv,enddepth,depth of water of last sampling,Profondeur de l'eau du dernier échantillon
+grainsize_samples.csv,sounding,depth of water at the sample station,Profondeur de l'eau à la station d'échantillonnage 
+grainsize_samples.csv,analysis,type of analysis performed on the collected sample,Type d'analyse réalisée sur l'échantillon prélevé
+grainsize_samples.csv,collection,type of device used to collect sample,Type d'appareil utilisé pour prélever l'échantillon
+grainsize_samples.csv,preservation,how the sample was treated once collected,Façon dont l'échantillon a été traité une fois prélevé
+grainsize_samples.csv,storage,how the sample was stored,Façon dont l'échantillon a été entreposé
+grainsize_samples.csv,sample type,the typr of sample that was collected,Type d'échantillon prélevé
+grainsize_samples.csv,ancillary data,other data types collected,Autres types de données acquises
+grainsize_samples.csv,units,how the sample is expressed once analyzed,Unité utilisée pour exprimer l'échantillon une fois analysé
+grainsize_samples.csv,ids,specific # identifier associated with the sample,No d'identification particulier associé avec l'échantillon 
+grainsize_samples.csv,core #,specific # identifier of the collected core sample,No d'identification particulier de l'échantillon de carotte prélevé
+grainsize_samples.csv,filter #,speific # identifier associated with the filter sample,No d'identification particulier associé avec l'échantillon du filtre
+grainsize_samples.csv,filter spm (g/m^3),the units of concentration of the filter water sample,Unités de concentration de l'échantillon d'eau du filtre
+grainsize_samples.csv,comment,comments,commentaire
+grainsize_observation.csv,sample_no,foreign key relating to  grainsize_samples.csv,Clé étrangère liée à grainsize_samples.csv
+grainsize_observation.csv,diameter,value used to represent different grain sizes,Valeur utilisée pour exprimer les différentes tailles de grain
+grainsize_observation.csv,value,expression of results,Expression des résultats
