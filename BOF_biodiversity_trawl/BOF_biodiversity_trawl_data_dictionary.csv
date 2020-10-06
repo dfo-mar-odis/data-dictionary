@@ -14,13 +14,13 @@ passamaquoddy_bay_biodiversity_trawl_set_data.csv,speed_k,Trawl speed in knots (
 passamaquoddy_bay_biodiversity_trawl_set_data.csv,depth_trwl_ave_m,Average depth of trawl at cod end in metres (m),Profondeur moyenne en mètres (m) du cul de chalut
 passamaquoddy_bay_biodiversity_trawl_set_data.csv,temp_trwl_ave_c ,Average temperature of trawl at cod end in degrees celcius (°C),Température moyenne en degrés Celsius (°C) au cul de chalut
 passamaquoddy_bay_biodiversity_trawl_set_data.csv,total_time_trawled,Total minutes trawled (minutes),Nombre total de minutes de chalutage (minutes)
-passamaquoddy_bay_biodiversity_trawl_sample_data.csv,setno,Unique identification code for each set within a trawl year,Code d’identification unique pour chaque ensemble au cours d’une année de chalutage
-passamaquoddy_bay_biodiversity_trawl_sample_data.csv,scientific_name,Identification to lowest taxon level,nom scientific
-passamaquoddy_bay_biodiversity_trawl_sample_data.csv,common_name,Common name for each species,nom commun
-passamaquoddy_bay_biodiversity_trawl_sample_data.csv,length_mm,"Measurement in millimeters (mm) of total length for all fish species, shell width for bivalves except scallop species where shell height measured and carapace length from posterior portion of thorax to eye socket in lobster","Mesure en millimètres (mm) de la longueur totale pour toutes les espèces de poissons, de la largeur de la coquille pour les bivalves, à l’exception des espèces de pétoncles pour lesquelles la hauteur de la coquille est mesurée, et de la longueur de la carapace de la partie postérieure du thorax à l’orbite chez le homard"
-passamaquoddy_bay_biodiversity_trawl_sample_data.csv,weight_g,Individual mass measured in grams (g),Masse individuelle en grammes (g)
-passamaquoddy_bay_biodiversity_trawl_sample_data.csv,sex,"male (M), female(F), berried female (FB), and not identified (NA)","Mâle (M), femelle (F), femelle œuvée (FO) et non défini (S. O.)"
-passamaquoddy_bay_biodiversity_trawl_sample_data.csv,comments,comments,Commentaires
+passamaquoddy_bay_biodiversity_trawl_catch_data.csv,setno,Unique identification code for each set within a trawl year,Code d’identification unique pour chaque ensemble au cours d’une année de chalutage
+passamaquoddy_bay_biodiversity_trawl_catch_data.csv,scientific_name,Identification to lowest taxon level,nom scientific
+passamaquoddy_bay_biodiversity_trawl_catch_data.csv,common_name,Common name for each species,nom commun
+passamaquoddy_bay_biodiversity_trawl_catch_data.csv,length_mm,"Measurement in millimeters (mm) of total length for all fish species, shell width for bivalves except scallop species where shell height measured and carapace length from posterior portion of thorax to eye socket in lobster","Mesure en millimètres (mm) de la longueur totale pour toutes les espèces de poissons, de la largeur de la coquille pour les bivalves, à l’exception des espèces de pétoncles pour lesquelles la hauteur de la coquille est mesurée, et de la longueur de la carapace de la partie postérieure du thorax à l’orbite chez le homard"
+passamaquoddy_bay_biodiversity_trawl_catch_data.csv,weight_g,Individual mass measured in grams (g),Masse individuelle en grammes (g)
+passamaquoddy_bay_biodiversity_trawl_catch_data.csv,sex,"male (M), female(F), berried female (FB), and not identified (NA)","Mâle (M), femelle (F), femelle œuvée (FO) et non défini (S. O.)"
+passamaquoddy_bay_biodiversity_trawl_catch_data.csv,comments,comments,Commentaires
 passamaquoddy_bay_biodiversity_trawl_sample_data.csv,setno,Unique identification code for each set within a trawl year,Code d’identification unique pour chaque ensemble au cours d’une année de chalutage
 passamaquoddy_bay_biodiversity_trawl_sample_data.csv,scientific_name,Identification to lowest taxonomic level,nom scientific
 passamaquoddy_bay_biodiversity_trawl_sample_data.csv,common_name,Common name for each species,nom commun
