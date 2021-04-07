@@ -1,21 +1,21 @@
 name_nom,description_en,description_fr
-cruise_croisiére,sequential cruise number of the sampling trip (`cruise_croisiere` = 1 is missing from the database),numéro séquentiel de la croisière de sortie d’échantillonnage (`cruise_croisiere` = 1 manque dans la base de données)
-station,numerical station index,index numérique des stations
-latitude,"latitude of the sampling station in decimal degrees (WGS84, EPSG: 4326)","latitude de la station d’échantillonnage en degrés décimaux (WGS84, EPSG : 4326)"
-longitude,"longitude of the sampling station in decimal degrees (WGS84, EPSG: 4326)","longitude de la station d’échantillonnage en degrés décimaux (WGS84, EPSG : 4326)"
-vessel_navire,"a single alphanumeric code for the vessel used for the sampling trip (P = R/V Pandalus III, V = CCGS Viola M. Davidson)","code alphanumérique unique pour le navire utilisé pour la sortie d’échantillonnage (P = NR Pandalus III, V = NGCC Viola M. Davidson)"
-date_YYYY-MM-DD_HH:MM:SS,"date of CTD cast in standard ISO format (YYYY-MM-DD HH:MM, AST)","date de profil CTP indiquée en format ISO standard (AAAA-MM-JJ HH:MM, HNA)"
-vesselDepth_profondeurNavire_m,measured depth reading from the vessels depth finder rounded to the nearest meter,lecture de la profondeur mesurée à l’aide du sondeur du navire arrondie au mètre près
-secchi_m,measured Secchi depth recorded to the nearest 0.1 m,"profondeur d’après le disque de Secchi mesurée, enregistrée à 0,1 m près"
-sampler_échantillonneur,Investigator/CTD operator for sampling trip,enquêteur/opérateur de sonde CTP pour la sortie d’échantillonnage
-measurementDepth_profondeurMeasure_m,"calculated depth measurement from the CTD based on pressure during the downcast, binned to 1 m increments","mesure de la profondeur calculée au moyen de la sonde CTP en fonction de la pression pendant la descente, fixée par paliers de 1 m"
-temperature_température_C,temperature of the water in degrees Celsius (C) to four decimal places,température de l’eau en degrés Celsius (C) à quatre décimales près
-salinity_salinité_PSU,salinity of the water in practical salinity units (PSU) to three decimal places,salinité de l’eau en unités de salinité pratique (USP) à trois décimales près
-density_densité_kg/m3,density of water in kg/m^3 to four decimal places,densité de l’eau en kg/m3 à quatre décimales près
-gear_équipement,specific CTD unit used to record CTD cast measurements,sonde CTP spécifique utilisée pour enregistrer les mesures de calées de sonde CTP
-chlorinity_chlorinité_ug/L,chlorinity of the water in ug/L to four decimal places,chlorinité de l’eau en ug/L à quatre décimales près
-opticalBackscatter_rétrodiffusionOptique_v,optical backscatter of the water in volts to eight decimal places,rétrodiffusion optique de l’eau en volts à huit décimales près
-oxygen_oxygéne_mg/L,oxygen concentration of the water in mg/L to three decimal places,concentration en oxygène de l’eau en mg/L à trois décimales près
-ph,"pH of the water to three decimal places, unitless","pH de l’eau à trois décimales près, sans unité"
-turbidity_turbidité_NTU,turbidity of the water in NTU/FTU to four decimal places,turbidité de l’eau en uTN/uTF à quatre décimales près
-flag_drapeau,data QA/QC flags (1 = Time not entered properly),alarmes d’AQ/AC des données (1 = heure non saisie correctement)
+cruise_croisiÃ©re,sequential cruise number of the sampling trip (`cruise_croisiere` = 1 is missing from the database),numÃ©ro sÃ©quentiel de la croisiÃ¨re de sortie dâ€™Ã©chantillonnage (`cruise_croisiere` = 1 manque dans la base de donnÃ©es)
+station,numerical station index,index numÃ©rique des stations
+latitude,"latitude of the sampling station in decimal degrees (WGS84, EPSG: 4326)","latitude de la station dâ€™Ã©chantillonnage en degrÃ©s dÃ©cimaux (WGS84, EPSGÂ : 4326)"
+longitude,"longitude of the sampling station in decimal degrees (WGS84, EPSG: 4326)","longitude de la station dâ€™Ã©chantillonnage en degrÃ©s dÃ©cimaux (WGS84, EPSGÂ : 4326)"
+vessel_navire,"a single alphanumeric code for the vessel used for the sampling trip (P = R/V Pandalus III, V = CCGS Viola M. Davidson)","code alphanumÃ©rique unique pour le navire utilisÃ© pour la sortie dâ€™Ã©chantillonnage (P = NR PandalusÂ III, V = NGCC Viola M.Â Davidson)"
+date_YYYY-MM-DD_HH:MM:SS,"date of CTD cast in standard ISO format (YYYY-MM-DD HH:MM, AST)","date de profil CTP indiquÃ©e en format ISO standard (AAAA-MM-JJ HH:MM, HNA)"
+vesselDepth_profondeurNavire_m,measured depth reading from the vessels depth finder rounded to the nearest meter,lecture de la profondeur mesurÃ©e Ã  lâ€™aide du sondeur du navire arrondie au mÃ¨tre prÃ¨s
+secchi_m,measured Secchi depth recorded to the nearest 0.1Â m,"profondeur dâ€™aprÃ¨s le disque de Secchi mesurÃ©e, enregistrÃ©e Ã  0,1Â m prÃ¨s"
+sampler_Ã©chantillonneur,Investigator/CTD operator for sampling trip,enquÃªteur/opÃ©rateur de sonde CTP pour la sortie dâ€™Ã©chantillonnage
+measurementDepth_profondeurMeasure_m,"calculated depth measurement from the CTD based on pressure during the downcast, binned to 1Â m increments","mesure de la profondeur calculÃ©e au moyen de la sonde CTP en fonction de la pression pendant la descente, fixÃ©e par paliers de 1Â m"
+temperature_tempÃ©rature_C,temperature of the water in degrees Celsius (C) to four decimal places,tempÃ©rature de lâ€™eau en degrÃ©s Celsius (C) Ã  quatre dÃ©cimales prÃ¨s
+salinity_salinitÃ©_PSU,salinity of the water in practical salinity units (PSU) to three decimal places,salinitÃ© de lâ€™eau en unitÃ©s de salinitÃ© pratique (USP) Ã  trois dÃ©cimales prÃ¨s
+density_densitÃ©_kg/m3,density of water in kg/m^3 to four decimal places,densitÃ© de lâ€™eau en kg/m3 Ã  quatre dÃ©cimales prÃ¨s
+gear_Ã©quipement,specific CTD unit used to record CTD cast measurements,sonde CTP spÃ©cifique utilisÃ©e pour enregistrer les mesures de calÃ©es de sonde CTP
+chlorophyll_a_chlorophylle_a_ug/L,chlorophyll a of the water in ug/L to four decimal places,chlorophylle a de lâ€™eau en ug/L Ã  quatre dÃ©cimales prÃ¨s
+opticalBackscatter_rÃ©trodiffusionOptique_v,optical backscatter of the water in volts to eight decimal places,rÃ©trodiffusion optique de lâ€™eau en volts Ã  huit dÃ©cimales prÃ¨s
+oxygen_oxygÃ©ne_mg/L,oxygen concentration of the water in mg/L to three decimal places,concentration en oxygÃ¨ne de lâ€™eau en mg/L Ã  trois dÃ©cimales prÃ¨s
+ph,"pH of the water to three decimal places, unitless","pH de lâ€™eau Ã  trois dÃ©cimales prÃ¨s, sans unitÃ©"
+turbidity_turbiditÃ©_NTU,turbidity of the water in NTU/FTU to four decimal places,turbiditÃ© de lâ€™eau en uTN/uTF Ã  quatre dÃ©cimales prÃ¨s
+flag_drapeau,data QA/QC flags (1 = Time not entered properly),alarmes dâ€™AQ/AC des donnÃ©es (1 = heure non saisie correctement)
